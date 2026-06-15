@@ -1,0 +1,61 @@
+{
+        "Pleistocene":"Pleistocene",
+        "Miocene":"Miocene",
+        "Late Cretaceous":"Late Cretaceous",
+        "Jurassic":"Jurassic",
+        "Triassic":"Triassic",
+        "Permian":"Permian",
+        "Pennsylvanian":"Pennsylvanian",
+        "Devonian":"Devonian",
+        "Cambrian":"Cambrian",
+        "Precambrian / Ediacaran":"Precambrian / Ediacaran",
+
+
+
+    "greeting": "ENGLISH",
+    "TheSchieleMuseum":"The Schiele Museum",
+    "TheLivingSpecimen":"Das lebende Exemplar",
+    "LocationInWall":"Position in der Wand",
+    "Deinosuchus":{
+        "Name":"Deinosuchus",
+        "ScientificName":"Deinosuchus",
+        "IsDino":"This is not a dinosaur because it is from the crocodile / alligator lineage!",
+        "Location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico During The Late Cretaceous",
+        "Habitat":"coastal, estuary, and rivers",
+        "Size":"Adults have been found to be over 35 ft!",
+        "Diet":"The Terror Crocodile",
+        "FunFactTitle":"The Terror Crocodile",
+        "FunFact":"Deinosuchus is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"
+},
+    "Giant Ground Sloth":{
+        "Name":"Giant Ground Sloth"
+    },
+        "Bootherium Bombifrons":{
+        "Name":"Bootherium Bombifrons"
+    },
+
+        "Mammoth Tusk":{
+        "Name":"Mammoth Tusk"
+    },
+
+        "Cetacean Vertebrae":{
+        "Name":"Cetacean Vertebrae"
+    },
+
+        "Horse Teeth":{
+        "Name":"Horse Teeth"
+    },
+
+        "Deer Horn":{
+        "Name":"Deer Horn"
+    },
+
+        "Homo Sapien":{
+        "Name":"Homo Sapien"
+    },
+
+        "Otodus Megalodon":{
+        "Name":"Otodus Megalodon"
+    }
+
+}
