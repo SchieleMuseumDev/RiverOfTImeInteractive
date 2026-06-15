@@ -1,0 +1,329 @@
+
+
+.photo-detail {
+  width: 100%;
+  flex: 1;
+  min-height: 0;
+  overflow: scroll;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  container-type: size;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  grid-template-columns: 50% 10% 40%;
+  grid-template-rows: 1fh 1fr 1fr;
+
+  overflow-x: hidden;
+
+  
+  h1,
+  h2 {
+    color: white;
+  }
+
+
+  img {
+    display: block;
+    /* scaling similar to object-fit: contain, but preserving aspect ratio of image for view transition */
+    --scale: min(100cqw / var(--width), 100cqh / var(--height));
+    width: calc(var(--width) * var(--scale));
+    max-width: 100%;}
+
+  .photoWTitle {
+    align-self: center;
+    display: flex;
+    flex-direction: column;  
+  box-sizing: border-box;
+        padding-left: 1vw;
+        grid-column: span 2;
+
+  }
+
+  .quickFacts {
+    view-transition-name: none;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+            max-width: 100%;
+            width: 99%;
+            overflow: hidden;
+              h1{
+    margin: 0 0 0vh 1rem;
+  font-size: clamp(1rem, 3vw + 1rem, 5rem);
+  align-self: flex-start;
+  }
+
+  h2{
+    font-style: italic;
+    align-self: flex-start;
+  }
+
+    .factSection {
+      display: flex;
+      flex-direction: row;
+      flex: 1;
+      align-items: center;
+
+      .factInfo{
+        padding: 0 5%;
+        text-align: left;
+      
+      }
+      
+    }
+
+    .factImg {
+      view-transition-name: none;
+      height: 10vh;
+      margin: 0 5%;
+    }
+
+    .imgToWhite{
+      filter: brightness(0) saturate(100%) invert(100%) sepia(14%) saturate(3566%) hue-rotate(293deg) brightness(131%) contrast(102%);
+    }
+  }
+
+
+  .desc {
+    box-sizing: border-box;
+    padding: 0 3%;
+    text-align: left;
+                width: 90%;
+
+    h2{
+      align-self: flex-start;
+      margin-left: 5%;
+
+  }
+
+  p{
+    white-space: pre-wrap;
+  }
+  }
+  .desc1{
+    padding-bottom: 2vh;
+  }
+  .desc2{
+    align-self: flex-start;
+     padding: 0 3%;
+  }
+
+  .locationInWall {
+    box-sizing: border-box;
+    padding: 0 1vh;
+            grid-column: span 3;
+            display: flex;
+            width: 100%;
+            height: 90vh;
+
+  }
+
+    .aliveSec{
+    width: 100%;
+    height: 100%;
+    grid-column: span 2;
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+
+
+
+    .wideImg{
+      padding: 7rem 1rem 7rem 0 ;
+          view-transition-name: none;
+
+    }
+  }
+}
+
+.photo-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  align-items: center;
+  contain: inline-size;
+
+  span {
+    white-space: nowrap;
+    overflow: clip;
+    text-overflow: ellipsis;
+    max-width: min(100%, 800px);
+  }
+
+}
+
+.fade-right {
+  -webkit-mask-image: linear-gradient(to right, #111 70%, transparent 100%);
+  mask-image: linear-gradient(to right, #111 60%, transparent 98%);
+}
+.fade-rightNew {
+  -webkit-mask-image: linear-gradient(to left, #111 5%, transparent 100%);
+    mask-image: linear-gradient(to left, #111 5%, transparent 100%);
+  background: linear-gradient(to left, #111 5%, transparent 100%);
+  position: absolute;
+  width: 101%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.pictureCarousel{
+  padding-top: 2vh;
+  width: 55%;
+  height: 88vh;
+}
+.skinnyCaro{
+  width: 45%;
+}
+
+.root {
+  display: grid;
+  grid-template-areas: ". scroller ." ". tabs .";
+  grid-auto-columns: min-content 1fr min-content;
+  grid-auto-rows: 1fr min-content;
+  column-gap: var(--spacing-6);
+  row-gap: var(--spacing-1);
+  position: relative;
+  align-items: center;
+  flex-grow: 1;
+  height: 100%;
+  width: 100%;
+      view-transition-name: none;
+
+}
+ 
+.scroller {
+  grid-area: scroller;
+  display: grid;
+  scrollbar-width: none;
+  scroll-snap-type: x mandatory;
+  grid-auto-flow: column;
+  overflow-x: auto;
+  overflow-y: hidden;
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+ 
+.button {
+  width: 3rem;
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all ease 0.2s;
+  transform: translateX(var(--translateX)) scale(var(--scale))
+    rotate(var(--rotate));
+    background-color: rgba(255, 222, 222, 0);
+    border: 0;
+    z-index: 1000;
+    position: absolute;
+    top: 50%;
+    padding-inline: 0;
+}
+.buttonRight{
+  right: 0;
+}
+.buttons{
+  z-index: 100;
+    background-color: red;
+}
+ 
+.button:not([aria-disabled]):hover {
+  --scale: 1.05;
+  color: var(--colors-blue-700);
+  box-shadow: 0 0 0 4px var(--colors-gray-200);
+}
+ 
+.button[data-dir="prev"]:not([aria-disabled]):hover {
+  --translateX: -5%;
+}
+ 
+.button[data-dir="next"]:not([aria-disabled]):hover {
+  --translateX: 5%;
+}
+ 
+.button[aria-disabled] {
+  opacity: 0.5;
+}
+ 
+.item {
+  pointer-events: none;
+
+  h2{
+    z-index: 100;
+  }
+}
+ 
+.tabs {
+  grid-area: tabs;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+.tab {
+  border-radius: 50%;
+  height: 1rem;
+  width: 1rem;
+  background-color: var(--colors-gray-300);
+  transition: background-color 0.2s ease;
+  border-color: white;
+  border-style: solid;
+}
+ 
+.tab:hover {
+  background-color: var(--colors-gray-500);
+}
+ 
+.tab[aria-selected="true"] {
+  background-color: var(--colors-gray-700);
+}
+ 
+.root img {
+  margin: 0;
+        height: 90%;
+        object-fit: cover;
+          object-position: center; /* (Optional) Focus on the center of the image */
+
+
+}
+ 
+.item {
+  color: var(--colors-prose-body);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: var(--font-sizes-2xl);
+  border-radius: var(--radii-3xl);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.picSection{
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+}
+.tab[aria-selected="true"]{
+  background-color: rgb(255, 255, 255);
+}
+ 
+@media screen and (max-width: 600px) {
+  .root {
+    gap: 8px;
+  }
+  .button {
+    width: 24px;
+    height: 24px;
+  }
+}

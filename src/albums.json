@@ -1,0 +1,45 @@
+[
+  {
+    "id": "Pleistocene",
+    "name": "Pleistocene"
+  },
+  {
+    "id": "Miocene",
+    "name": "Miocene"
+  },
+  {
+    "id": "Late Cretaceous",
+    "name": "Late Cretaceous"
+  },
+   {
+    "id": "Jurassic",
+    "name": "Jurassic"
+  },
+  {
+    "id": "Triassic",
+    "name": "Triassic"
+  },
+    {
+    "id": "Permian",
+    "name": "Permian"
+  },
+  {
+    "id": "Pennsylvanian",
+    "name": "Pennsylvanian"
+  },
+  {
+    "id": "Devonian",
+    "name": "Devonian",
+    "children": [
+      { "id": "Mahantango Formation", "name": "Mahantango Formation" },
+      { "id": "Blue Ridge Ophiolite", "name": "Blue Ridge Ophiolite" }]
+  },
+    {
+    "id": "Cambrian",
+    "name": "Cambrian"
+  },
+      {
+    "id": "Precambrian / Ediacaran",
+    "name": "Precambrian / Ediacaran"
+  }
+]

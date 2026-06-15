@@ -1,0 +1,79 @@
+{
+  "homepage": "https://<SchieleMuseumDev>.github.io/<RiverOfTImeInteractive>",
+  "name": "my-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "@ebay/nice-modal-react": "^1.2.13",
+    "@tailwindcss/vite": "^4.2.2",
+    "antd": "^6.3.5",
+    "i18next": "^26.0.9",
+    "i18next-browser-languagedetector": "^8.2.1",
+    "i18next-http-backend": "^4.0.0",
+    "lucide-react": "^1.7.0",
+    "next-intl": "^4.13.0",
+    "react": "^19.2.4",
+    "react-aria-carousel": "^0.2.0",
+    "react-aria-components": "^1.17.0",
+    "react-dom": "^19.2.4",
+    "react-i18next": "^17.0.8",
+    "react-icons": "^5.6.0",
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@chromatic-com/storybook": "^5.2.1",
+    "@eslint/js": "^9.39.4",
+    "@storybook/addon-a11y": "^10.4.5",
+    "@storybook/addon-docs": "^10.4.5",
+    "@storybook/addon-onboarding": "^10.4.5",
+    "@storybook/addon-vitest": "^10.4.5",
+    "@storybook/react": "^10.4.5",
+    "@storybook/react-vite": "^10.4.5",
+    "@testing-library/dom": "^10.4.1",
+    "@testing-library/react": "^16.3.2",
+    "@types/node": "^24.12.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "@vitest/browser": "^4.1.9",
+    "@vitest/browser-playwright": "^4.1.2",
+    "@vitest/coverage-v8": "^4.1.2",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "eslint-plugin-storybook": "latest",
+    "gh-pages": "^6.3.0",
+    "globals": "^17.4.0",
+    "playwright": "^1.59.0",
+    "postcss": "^8.5.15",
+    "storybook": "^10.4.5",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.57.0",
+    "vite": "^8.0.1",
+    "vite-plugin-singlefile": "^2.3.2",
+    "vitest": "^4.1.9"
+  },
+  "overrides": {
+    "esbuild": "^0.28.1",
+    "next-intl": {
+      "next": {
+        "postcss": "^8.5.15"
+      }
+    },
+    "resolutions": {
+      "postcss": "^8.5.15"
+    }
+  }
+}

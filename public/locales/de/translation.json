@@ -1,0 +1,60 @@
+{
+        "Pleistocene":"Pleistozän",
+        "Miocene":"Miozän",
+        "Late Cretaceous":"Oberkreide",
+        "Jurassic":"Jura",
+        "Triassic":"Trias",
+        "Permian":"Perm",
+        "Pennsylvanian":"Pennsylvanisch",
+        "Devonian":"Devon",
+        "Cambrian":"Kambrium",
+        "Precambrian / Ediacaran":"Präkambrium / Ediacarium",
+
+    "greeting":"GERMAN",
+    "TheSchieleMuseum":"Das Schiele-Museum",
+    "OurSpecimen":"Our Specimen",
+    "TheLivingSpecimen":"The Living Specimen",
+    "LocationInWall":"Location in Wall",
+    "Deinosuchus":{
+        "Name":"Schreckliches Krokodi",
+        "ScientificName":"Deinosuchus schwimmeri",
+        "IsDino":"Dies ist kein Dinosaurier, da es aus der Krokodil- / Alligatorenlinie stammt!",
+        "Location":"Vereinigte Staaten (North Carolina, Montana, Texas, New Jersey) und Nordmexiko während der späten Kreidezeit",
+        "Habitat":"Küstengebiete, Ästuare und Flüsse",
+        "Size":"Es wurde festgestellt, dass ausgewachsene Exemplare über 35 Fuß lang sind!",
+        "Diet":"Große Meeresschildkröten, Fische und Dinosaurier",
+        "FunFactTitle":"Das Schreckenskrokodil",
+        "FunFact":"Deinosuchus ist eine ausgestorbene Gattung der Eusuchia – entweder ein alligatoroider Krokodilverwandter oder ein Stammgruppen-Krokodil –, die während der Oberkreide vor etwa 82 bis 73 Millionen Jahren lebte. Die ersten Überreste wurden in North Carolina entdeckt."
+},
+
+    "Giant Ground Sloth":{
+        "Name":"Riesenfaultier"
+    },
+        "Bootherium Bombifrons":{
+        "Name":"Bootherium Bombifrons"
+    },
+
+        "Mammoth Tusk":{
+        "Name":"Mammutstoßzahn"
+    },
+
+        "Cetacean Vertebrae":{
+        "Name":"Walwirbel-Stoßzahn"
+    },
+
+        "Horse Teeth":{
+        "Name":"Pferdezähne"
+    },
+
+        "Deer Horn":{
+        "Name":"Deer Horn"
+    },
+
+        "Homo Sapien":{
+        "Name":"Hirschgeweih"
+    },
+
+        "Otodus Megalodon":{
+        "Name":"Otodus Megalodon"
+    }
+    }
