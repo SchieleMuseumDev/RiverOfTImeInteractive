@@ -3,10 +3,10 @@
     "id": "Deinosuchus",
         "album": "Late Cretaceous",
     "urls": {
-      "raw": "/photos/Deinosuchus.jpg",
-      "full": "/photos/Deinosuchus.jpg",
-      "regular": "/photos/Deinosuchus.jpg",
-      "small": "/photos/Deinosuchus.jpg",
+      "raw": "${process.env.PUBLIC_URL}/photos/Deinosuchus.jpg",
+      "full": "${process.env.PUBLIC_URL}/photos/Deinosuchus.jpg",
+      "regular": "${process.env.PUBLIC_URL}/photos/Deinosuchus.jpg",
+      "small": "${process.env.PUBLIC_URL}/photos/Deinosuchus.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
