@@ -182,7 +182,7 @@ if(element){
                   <h2>The Living Specimen</h2>
                 </CarouselItem>
                 <CarouselItem className="item" index={2}>
-                  <img src="src\photos\rockwall.jpg" />
+                  <img src="photos\rockwall.jpg" />
                   <h2>Location in wall</h2>
                 </CarouselItem>
               </CarouselScroller>
