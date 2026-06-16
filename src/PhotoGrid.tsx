@@ -75,12 +75,12 @@ export function PhotoGrid({photos, onAction, hidden, toggleSidebar}: PhotoGridPr
   </Button>
   <Menu>
     <MenuSection>
-      <MenuItem onClick={() => changeLanguage('en')}>
+      <MenuItem onClick={() => {changeLanguage('en'); window.location.reload(); }}>
         <FolderOpen />
         <Text slot="label">English</Text>
       </MenuItem>
 
-            <MenuItem onClick={() => changeLanguage('de')}>
+            <MenuItem onClick={() => {changeLanguage('de'); window.location.reload();}}>
         <FolderOpen />
         <Text slot="label">German</Text>
       </MenuItem>
