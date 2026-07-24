@@ -37,9 +37,8 @@ interface PhotoDetailProps {
 
 export function PhotoDetail({ photo, onBack }: PhotoDetailProps) {
 
-   const {t} = useTranslation();
   
-    const { i18n } = useTranslation()
+    const { i18n,t } = useTranslation()
   
        const changeLanguage = (lang:string) =>
        {
@@ -218,7 +217,7 @@ if(element){
 
                           <div className="quickFacts">
           <h1>{t(photo.specimenName+".Name")}</h1>
-          <h2 className='factInfo'>{t(photo.specimenName+"ScientificName")}</h2>
+          <h2 className='factInfo'>{t(photo.specimenName+".ScientificName")}</h2>
 
           <div className='factSection'>
             <img className='factImg imgToWhite' src={photo.isThisADinoPic}></img>

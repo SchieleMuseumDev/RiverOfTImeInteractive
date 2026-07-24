@@ -16,6 +16,8 @@
     "TheSchieleMuseum":"The Schiele Museum",
     "TheLivingSpecimen":"Das lebende Exemplar",
     "LocationInWall":"Position in der Wand",
+
+
     "Deinosuchus":{
         "Name":"Deinosuchus",
         "ScientificName":"Deinosuchus",
@@ -23,39 +25,344 @@
         "Location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico During The Late Cretaceous",
         "Habitat":"coastal, estuary, and rivers",
         "Size":"Adults have been found to be over 35 ft!",
-        "Diet":"The Terror Crocodile",
+        "Diet":"Theey fed on fish! :)",
         "FunFactTitle":"The Terror Crocodile",
         "FunFact":"Deinosuchus is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"
 },
     "Giant Ground Sloth":{
-        "Name":"Giant Ground Sloth"
+        "Name":"Jefferson's Ground Sloth",
+        "ScientificName":"Megalonyx jeffersoni",
+        "IsDino":"No, sloths are mammals",
+        "Location":"The Late Pleistocene of North America",
+        "Habitat":"Forests and Caves",
+        "Size":"",
+        "Diet":"Soft Vegetation",
+        "FunFactTitle":"",
+        "FunFact":""
     },
         "Bootherium Bombifrons":{
-        "Name":"Bootherium Bombifrons"
+        "Name":"Woodland muskox",
+        "ScientificName":"Bootherium bombifrons",
+        "IsDino":"No, muskoxen are mammals",
+        "Location":"The Pleistocene of North America",
+        "Habitat":"Forests, Grasslands and Caves",
+        "Size":"",
+        "Diet":"Tough Grasses and Soft Vegetation",
+        "FunFactTitle":"",
+        "FunFact":""
     },
 
         "Mammoth Tusk":{
-        "Name":"Mammoth Tusk"
+        "Name":"Mammoth Tusk",
+        "ScientificName":"Mammuthus sp.",
+        "IsDino":"No, mammoths are mammals",
+        "Location":"Late Miocene-Pleistocene of Africa, Europe, Asia, and North America",
+        "Habitat":"Grasslands, Tundra, Forests",
+        "Size":"",
+        "Diet":"Soft Vegetation",
+        "FunFactTitle":"",
+        "FunFact":""
     },
 
         "Cetacean Vertebrae":{
-        "Name":"Cetacean Vertebrae"
+        "Name":"Cetacean Vertebrae",
+        "ScientificName":"",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
     },
 
         "Horse Teeth":{
-        "Name":"Horse Teeth"
+        "Name":"Horse Teeth",
+        "ScientificName":"Equus sp.",
+        "IsDino":"No, horses are mammals.",
+        "Location":"Miocene to Present of North America, South America, Asia, Africa, and Europe",
+        "Habitat":"Grasslands and Deserts",
+        "Size":"",
+        "Diet":"Tough Grasses",
+        "FunFactTitle":"",
+        "FunFact":""
     },
 
         "Deer Horn":{
-        "Name":"Deer Horn"
+        "Name":"Deer",
+        "ScientificName":"Cervidae",
+        "IsDino":"No, deer are mammals.",
+        "Location":"Miocene-Present of North America, South America, Europe, and Asia",
+        "Habitat":"Forests, Grasslands, and Tundra",
+        "Size":"",
+        "Diet":"Tough Grasses and Soft Vegetation",
+        "FunFactTitle":"",
+        "FunFact":""
     },
 
         "Homo Sapien":{
-        "Name":"Homo Sapien"
+        "Name":"Homo Sapien",
+        "ScientificName":"",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+                "Otodus Megalodon":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"No, sharks are fish.",
+        "Location":"Miocene-Pliocene Oceans",
+        "Habitat":"Warm, Shallow Ocean",
+        "Size":"",
+        "Diet":"Whales, Dolphins, Seals, Sea Turtles, and Large Fish",
+        "FunFactTitle":"",
+        "FunFact":""
     },
 
-        "Otodus Megalodon":{
-        "Name":"Otodus Megalodon"
+        "Mosasaur":{
+        "Name":"Mosasaur",
+        "ScientificName":"Clidastes sp.",
+        "IsDino":"No, mosasaurs are lizards.",
+        "Location":"Late Cretaceous of North America",
+        "Habitat":"Warm, Shallow Ocean",
+        "Size":"",
+        "Diet":"Small and Large Fish and Ammonites",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+        "Xiphiacetus":{
+        "Name":"Well-nosed Dolphin",
+        "ScientificName":"Eurhinodelphis longirostris",
+        "IsDino":"No, dolphins are mammals.",
+        "Location":"Miocene of Europe and North America",
+        "Habitat":"Warm, Shallow Ocean",
+        "Size":"",
+        "Diet":"Small Fish and Invertebrates",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Prinonchelys":{
+        "Name":"Prionochelys",
+        "ScientificName":"Prionochelys mutatina",
+        "IsDino":"No, turtles are not dinosaurs.",
+        "Location":"Late Cretaceous of North America",
+        "Habitat":"Warm, Shallow Ocean",
+        "Size":"",
+        "Diet":"Hard shelled invertebrates",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Plesiosaur":{
+        "Name":"Megalodon",
+        "ScientificName":"Styxosaurus snowii",
+        "IsDino":"No, plesiosaurs are marine reptiles.",
+        "Location":"Late Cretaceous of North America",
+        "Habitat":"Warm, Shallow Ocean",
+        "Size":"",
+        "Diet":"Fish and Cephalopods",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Ammonite":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Hadrosaur Jaw":{
+        "Name":"Hadrosaur Jaw",
+        "ScientificName":"Hypacrosaurus sp.",
+        "IsDino":"Yes, hadrosaurs are dinosaurs.",
+        "Location":"Late Cretaceous of North America.",
+        "Habitat":"Forest and Swamps",
+        "Size":"",
+        "Diet":"Tough and Soft Vegetation",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Grallator dinosaur track":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "reptile / amphibian trackway":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Exogyra":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Plant Fossils":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Helicoprion":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Crinoids":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Diplocaulus":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Tiktaalik":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Giant Sea Scorpion":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Anomalocaris":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Trilobites":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Terataspis":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Pikaia gracilens":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Wiwaxia ":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Aspidella":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+            "Hallucigenia":{
+        "Name":"Megalodon",
+        "ScientificName":"Otodus megalodon",
+        "IsDino":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
     }
-
 }
