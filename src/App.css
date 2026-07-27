@@ -64,12 +64,13 @@ html::-webkit-scrollbar {
 }
 
 .toolbar-Button {
-  background: light-dark(#ddd, #333);
-  color: light-dark(black, white);
+  background: light-dark(#ddd, #0088ff);
+  color: light-dark(rgb(0, 0, 0), white);
   border: none;
-  height: 32px;
-  padding: 0 16px;
-  border-radius: 8px;
+  height: 450%;
+  padding: 0 0 0 0;
+  margin: 5% 0 0 -5%;
+  border-radius: 50%;
   transition: background 200ms;
   font-family: system-ui;
   font-size: 14px;
@@ -81,6 +82,7 @@ html::-webkit-scrollbar {
     display: flex;
     align-items: center;
     justify-content: center;
+    z-index: 1000;
   }
 
   &[data-hovered] {

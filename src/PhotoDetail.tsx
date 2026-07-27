@@ -45,7 +45,6 @@ export function PhotoDetail({ photo, onBack }: PhotoDetailProps) {
          i18n.changeLanguage(lang)
        }
 
-  console.log("you just did something!");
   let [src, setSrc] = useState(photo.urls.small);
   useEffect(() => {
     // Start with already loaded thumbnail and swap to larger size image when loaded

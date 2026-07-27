@@ -44,8 +44,8 @@
     "urls": {
       "raw": "photos/groundslothPlaceHolder.webp",
       "full": "photos/groundslothPlaceHolder.webp",
-      "regular": "photos/groundslothPlaceHolder.webp",
-      "small": "photos/groundslothPlaceHolder.webp",
+      "regular": "photos/Megalonyx-A.jpg",
+      "small": "photos/Megalonyx-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -84,8 +84,8 @@
     "urls": {
       "raw": "photos/Bootherium.jpg",
       "full": "photos/Bootherium.jpg",
-      "regular": "photos/Bootherium.jpg",
-      "small": "photos/Bootherium.jpg",
+      "regular": "photos/Bootherium-A.jpg",
+      "small": "photos/Bootherium-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -101,7 +101,7 @@
       "habitat":"coastal, estuary, and rivers",
       "sizeText":  "Adults have been found to be over 35 ft!",
       "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/Bootherium-A.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -123,8 +123,8 @@
     "urls": {
       "raw": "photos/mammoth.jpg",
       "full": "photos/mammoth.jpg",
-      "regular": "photos/mammoth.jpg",
-      "small": "photos/mammoth.jpg",
+      "regular": "photos/Mammuthus-A.jpg",
+      "small": "photos/Mammuthus-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -132,7 +132,7 @@
 ,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 125,
+    "width": 200,
     "height": 100,
     "specimenName": "Mammoth Tusk",
     "scientificName": "Mammoth",
@@ -199,8 +199,8 @@
     "urls": {
       "raw": "photos/horseSkull.jpg",
       "full": "photos/horseSkull.jpg",
-      "regular": "photos/horseSkull.jpg",
-      "small": "photos/horseSkull.jpg",
+      "regular": "photos/Equus-A.jpg",
+      "small": "photos/Equus-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -216,7 +216,7 @@
       "habitat":"coastal, estuary, and rivers",
       "sizeText":  "Adults have been found to be over 35 ft!",
       "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/Exogyra.JPG",
+      "photoAlive": "photos/Equus-A.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -313,7 +313,7 @@
       "raw": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0",
       "full": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=85",
       "regular": "photos/Otodus.jpg",
-      "small": "photos/Otodus.jpg",
+      "small": "photos/Megalodon-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"
     ,
@@ -349,7 +349,7 @@
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
       "regular": "photos/Xiphiacetus.jpg",
-      "small": "photos/Xiphiacetus.jpg",
+      "small": "photos/Eurhinodelphis-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -424,8 +424,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Mosasaur.jpg",
-      "small": "photos/Mosasaur.jpg",
+      "regular": "photos/Clidastes-A.jpg",
+      "small": "photos/Clidastes-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -433,8 +433,8 @@
 ,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 150,
-    "height": 100,
+    "width": 100,
+    "height": 150,
     "specimenName": "Mosasaur",
     "scientificName": "Deinosuchus schwimmeri",
       "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
@@ -538,8 +538,8 @@
     "urls": {
       "raw": "photos/hadrosaurJaw.png",
       "full": "photos/hadrosaurJaw.png",
-      "regular": "photos/hadrosaurJaw.png",
-      "small": "photos/hadrosaurJaw.png",
+      "regular": "photos/Hypacrosaurus-A.jpg",
+      "small": "photos/Hypacrosaurus-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -577,8 +577,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/grallatorPic.jpg",
-      "small": "photos/grallatorPic.jpg",
+      "regular": "photos/Grallator-A.jpg",
+      "small": "photos/Grallator-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -586,9 +586,9 @@
 ,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 150,
-    "height": 100,
-    "specimenName": "Grallator dinosaur track",
+    "width": 125,
+    "height": 150,
+    "specimenName": "Grallator Tracks",
     "scientificName": "Deinosuchus schwimmeri",
       "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
       "habitat":"coastal, estuary, and rivers",
@@ -653,8 +653,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Exogyra.JPG",
-      "small": "photos/Exogyra.JPG",
+      "regular": "photos/Exogyra-A.jpg",
+      "small": "photos/Exogyra-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -690,8 +690,8 @@
     "urls": {
       "raw": "photos/Helicoprion.jpg",
       "full": "photos/Helicoprion.jpg",
-      "regular": "photos/Helicoprion.jpg",
-      "small": "photos/Helicoprion.jpg",
+      "regular": "photos/Helicoprion-A.jpg",
+      "small": "photos/Helicoprion-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -767,8 +767,8 @@
     "urls": {
       "raw": "photos/Diplocaulus.jpg",
       "full": "photos/Diplocaulus.jpg",
-      "regular": "photos/Diplocaulus.jpg",
-      "small": "photos/Diplocaulus.jpg",
+      "regular": "photos/Diplocaulus-A.jpg",
+      "small": "photos/Diplocaulus-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -880,8 +880,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/tiktaalik.JPG",
-      "small": "photos/tiktaalik.JPG",
+      "regular": "photos/Tiktaalik-A.jpg",
+      "small": "photos/Tiktaalik-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -890,7 +890,7 @@
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 100,
-    "height": 100,
+    "height": 75,
     "specimenName": "Tiktaalik",
     "scientificName": "Deinosuchus schwimmeri",
       "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
@@ -917,8 +917,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/bothriolepis.jpg",
-      "small": "photos/bothriolepis.jpg",
+      "regular": "photos/Bothriolepis-A.jpg",
+      "small": "photos/Bothriolepis-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -926,7 +926,7 @@
 ,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 100,
+    "width": 150,
     "height": 100,
     "specimenName": "Bothriolepis",
     "scientificName": "Deinosuchus schwimmeri",
@@ -934,7 +934,7 @@
       "habitat":"coastal, estuary, and rivers",
       "sizeText":  "Adults have been found to be over 35 ft!",
       "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/bothriolepis-A.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -992,8 +992,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/terataspis.webp",
-      "small": "photos/terataspis.webp",
+      "regular": "photos/Terataspis-A.jpg",
+      "small": "photos/Terataspis-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -1067,8 +1067,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/pikaia.jpg",
-      "small": "photos/pikaia.jpg",
+      "regular": "photos/Pikaia-A.jpg",
+      "small": "photos/Pikaia-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -1077,7 +1077,7 @@
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 100,
-    "height": 100,
+    "height": 150,
     "specimenName": "Pikaia gracilens",
     "scientificName": "Deinosuchus schwimmeri",
       "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
@@ -1105,8 +1105,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/aspidella.jpg",
-      "small": "photos/aspidella.jpg",
+      "regular": "photos/Aspidella-A.jpg",
+      "small": "photos/Aspidella-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -1181,23 +1181,23 @@
     "urls": {
       "raw": "photos/hallucigenia.jpg",
       "full": "photos/hallucigenia.jpg",
-      "regular": "photos/hallucigenia.jpg",
-      "small": "photos/hallucigenia.jpg",
+      "regular": "photos/Hallucigenia-A.jpg",
+      "small": "photos/Hallucigenia-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
+"isThisADino": "No, these are way older than dinosaurs!"
 ,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 100,
+    "width": 75,
     "height": 100,
     "specimenName": "Hallucigenia",
     "scientificName": "Hallucigenia",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+      "location":"Cambrian of North America and Asia.",
+      "habitat":"Deep Ocean.",
+      "sizeText":"small",
+      "diet":"Jellyfish and Soft Bodied Animals.",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -1207,7 +1207,10 @@
 
               "hookTitle": "The Terror Crocodile",
 "description": "Hallucigenia is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  }
+ , "isThisADino": "No, these are way older than dinosaurs!"
+,
+"isThisADinoPic": "photos/isThisADino.svg"
+}
 
 
 ]
