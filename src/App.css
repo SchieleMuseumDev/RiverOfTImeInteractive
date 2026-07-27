@@ -67,14 +67,14 @@ html::-webkit-scrollbar {
   background: light-dark(#ddd, #0088ff);
   color: light-dark(rgb(0, 0, 0), white);
   border: none;
-  height: 450%;
-  padding: 0 0 0 0;
-  margin: 5% 0 0 -5%;
   border-radius: 50%;
-  transition: background 200ms;
   font-family: system-ui;
   font-size: 14px;
   -webkit-tap-highlight-color: transparent;
+      width: 7.5rem;
+      height: 7.5rem;
+          z-index: 1000;
+          margin: 0 0 0 -5%;
 
   &:has(svg:only-child) {
     padding: 0;
@@ -82,7 +82,6 @@ html::-webkit-scrollbar {
     display: flex;
     align-items: center;
     justify-content: center;
-    z-index: 1000;
   }
 
   &[data-hovered] {
@@ -93,7 +92,20 @@ html::-webkit-scrollbar {
     background: light-dark(#bbb, #444);
   }
 }
-
+.navButtonDiv{
+  margin: 25% 0 0 10%;
+  transform: rotate(-45deg);
+  display: inline-block;
+  align-items: center;
+  align-content: center;
+}
+.navButtonText{
+}
+.navSvg{
+  height: 2rem;
+  padding: 0;
+  margin: -1rem;
+}
 .toolbar-Slider {
   .react-aria-SliderTrack {
     width: 100px;

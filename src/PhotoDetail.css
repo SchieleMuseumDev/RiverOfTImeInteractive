@@ -172,6 +172,22 @@
   pointer-events: none;
 }
 
+.fade-all-sides {
+  /* Standard syntax for modern browsers */
+  mask-image: radial-gradient(
+    circle, 
+    black 60%, 
+    transparent 100%
+  );
+  
+  /* Required prefix for WebKit browsers like Safari and older Chrome */
+  -webkit-mask-image: radial-gradient(
+    circle, 
+    black 60%, 
+    transparent 100%
+  );
+}
+
 .pictureCarousel{
   padding-top: 2vh;
   width: 55%;

@@ -79,7 +79,10 @@ if(element){
               el?.classList.remove('photo-transition');
             });
           }}>
-          <ChevronLeft size={18} style={{ display: 'block' }} />
+          <div className='navButtonDiv'>
+            <h2 className='navButtonText'>Home</h2>
+            <img className='navSvg' src='public\photos\claudita-home-icon.svg'></img>
+          </div>
         </Button>
         <div className="photo-info">
           {/*<span>{"TBA"}</span>*/}
@@ -172,11 +175,11 @@ if(element){
 
               <CarouselScroller className="scroller">
                 <CarouselItem className="item" index={0}>
-                  <img className='first' src={src} alt={photo.description || ''} style={{ '--width': photo.width, '--height': photo.height } as any} />
+                  <img className='first fade-all-sides' src={src}  alt={photo.description || ''} style={{ '--width': photo.width, '--height': photo.height } as any} />
                   <h2>Our Specimen</h2>
                 </CarouselItem>
                 <CarouselItem className="item" index={1}>
-                  <img src={photo.photoAlive} />
+                  <img src={photo.photoAlive} className='fade-all-sides'/>
                   <h2>The Living Specimen</h2>
                 </CarouselItem>
                 <CarouselItem className="item" index={2}>
@@ -239,14 +242,14 @@ if(element){
               <p>{t(photo.specimenName+".Habitat")}</p>
               </div>
           </div>
-
+{/* commented out for future use
           <div className='factSection'>
             <img className='factImg imgToWhite' src={photo.sizeSvg}></img>
             <div className='factInfo'>
               <p>{t(photo.specimenName+".Size")}</p>
               </div>
-          </div>
-
+          </div>//
+*/}
           <div className='factSection'>
             <img className='factImg imgToWhite' src={photo.dietSvg}></img>
             <div className='factInfo'>
