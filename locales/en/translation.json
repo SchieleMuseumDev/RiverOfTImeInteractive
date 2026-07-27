@@ -157,7 +157,7 @@
         "FunFact":""
     },
             "Plesiosaur":{
-        "Name":"Megalodon",
+        "Name":"Plesiosaur",
         "ScientificName":"Styxosaurus snowii",
         "IsDino":"No, plesiosaurs are marine reptiles.",
         "Location":"Late Cretaceous of North America",
@@ -168,8 +168,8 @@
         "FunFact":""
     },
             "Ammonite":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Ammonite",
+        "ScientificName":"Ammonite",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -189,10 +189,10 @@
         "FunFactTitle":"",
         "FunFact":""
     },
-            "Grallator dinosaur track":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
-        "IsDino":"",
+            "Grallator Tracks":{
+        "Name":"Grallator dinosaur track",
+        "ScientificName":"",
+        "IsDino":"yeah!!",
         "Location":"",
         "Habitat":"",
         "Size":"",
@@ -201,8 +201,8 @@
         "FunFact":""
     },
             "reptile / amphibian trackway":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"reptile / amphibian trackway",
+        "ScientificName":"reptile / amphibian trackway",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -212,8 +212,8 @@
         "FunFact":""
     },
             "Exogyra":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Exogyra",
+        "ScientificName":"Exogyra",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -223,8 +223,8 @@
         "FunFact":""
     },
             "Plant Fossils":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Plant Fossils",
+        "ScientificName":"Plant Fossils",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -234,8 +234,8 @@
         "FunFact":""
     },
             "Helicoprion":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Helicoprion",
+        "ScientificName":"Helicoprion",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -245,8 +245,8 @@
         "FunFact":""
     },
             "Crinoids":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Crinoids",
+        "ScientificName":"Crinoids",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -256,8 +256,8 @@
         "FunFact":""
     },
             "Diplocaulus":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Diplocaulus",
+        "ScientificName":"Diplocaulus",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -267,8 +267,8 @@
         "FunFact":""
     },
             "Tiktaalik":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Tiktaalik",
+        "ScientificName":"Tiktaalik",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -278,8 +278,8 @@
         "FunFact":""
     },
             "Giant Sea Scorpion":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Giant Sea Scorpion",
+        "ScientificName":"Giant Sea Scorpion",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -289,8 +289,8 @@
         "FunFact":""
     },
             "Anomalocaris":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Anomalocaris",
+        "ScientificName":"Anomalocaris",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -300,8 +300,8 @@
         "FunFact":""
     },
             "Trilobites":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Trilobites",
+        "ScientificName":"Trilobites",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -311,8 +311,8 @@
         "FunFact":""
     },
             "Terataspis":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Terataspis",
+        "ScientificName":"Terataspis",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -322,8 +322,8 @@
         "FunFact":""
     },
             "Pikaia gracilens":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Pikaia gracilens",
+        "ScientificName":"Pikaia gracilens",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -333,19 +333,19 @@
         "FunFact":""
     },
             "Wiwaxia ":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
-        "IsDino":"",
-        "Location":"",
-        "Habitat":"",
+        "Name":"Wiwaxia",
+        "ScientificName":"Wiwaxia sp.",
+        "IsDino":"No, these are way older than dinosaurs!",
+        "Location":"Cambrian, Worldwide",
+        "Habitat":"Shallow and Deep ocean",
         "Size":"",
-        "Diet":"",
+        "Diet":"Unknown",
         "FunFactTitle":"",
         "FunFact":""
     },
             "Aspidella":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Aspidella",
+        "ScientificName":"Aspidella",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
@@ -355,8 +355,19 @@
         "FunFact":""
     },
             "Hallucigenia":{
-        "Name":"Megalodon",
-        "ScientificName":"Otodus megalodon",
+        "Name":"Hallucigenia",
+        "ScientificName":"Hallucigenia",
+        "IsDino":"No, these are way older than dinosaurs!",
+        "Location":"Cambrian of North America and Asia",
+        "Habitat":"Deep Ocean",
+        "Size":"",
+        "Diet":"Jellyfish and Soft Bodied Animals",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+                "Bothriolepis":{
+        "Name":"Bothriolepis",
+        "ScientificName":"Bothriolepis",
         "IsDino":"",
         "Location":"",
         "Habitat":"",
