@@ -81,7 +81,7 @@ if(element){
           }}>
           <div className='navButtonDiv'>
             <h2 className='navButtonText'>Home</h2>
-            <img className='navSvg' src='public\photos\claudita-home-icon.svg'></img>
+            <img className='navSvg' src='.\photos\claudita-home-icon.svg'></img>
           </div>
         </Button>
         <div className="photo-info">
