@@ -1,6 +1,6 @@
 import './PhotoDetail.css';
 import { Button } from 'react-aria-components';
-import { ChevronLeft } from 'lucide-react';
+</*import { ChevronLeft } from 'lucide-react';*/></>
 import photos from './photos.json';
 import { flushSync } from 'react-dom';
 import { useEffect, useState } from 'react';
