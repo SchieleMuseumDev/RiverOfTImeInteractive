@@ -22,7 +22,12 @@ export default function App() {
   let [isMobile, setMobile] = useState(false);
   let [sidebarVisible, setSidebarVisible] = useState(false);
   let [selectedPhoto, setSelectedPhoto] = useState<Photo | null>(null);
-  let visiblePhotos = useMemo(() => album === 'library' ? library : library.filter(p => p.album === album), [album, library]);
+let visiblePhotos = useMemo(() => 
+  album === 'library' 
+    ? library 
+    : library.filter(p => p.album.includes(album)), 
+  [album, library]
+);
 
   useLayoutEffect(() => {
     let media = matchMedia('(width >= 500px)');

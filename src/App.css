@@ -64,7 +64,7 @@ html::-webkit-scrollbar {
 }
 
 .toolbar-Button {
-  background: light-dark(#ddd, #0088ff);
+  background: light-dark(#ddd, #4bd1bf);
   color: light-dark(rgb(0, 0, 0), white);
   border: none;
   border-radius: 50%;
@@ -98,8 +98,6 @@ html::-webkit-scrollbar {
   display: inline-block;
   align-items: center;
   align-content: center;
-}
-.navButtonText{
 }
 .navSvg{
   height: 2rem;

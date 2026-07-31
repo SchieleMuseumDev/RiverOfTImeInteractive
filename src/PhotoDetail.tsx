@@ -10,6 +10,7 @@ import {MenuTrigger, Menu, MenuItem, MenuSection, Text,} from './menu';
 import {Ellipsis, FolderOpen} from 'lucide-react';
 
 
+
 import {
   Carousel,
   CarouselButton,
@@ -175,17 +176,18 @@ if(element){
 
               <CarouselScroller className="scroller">
                 <CarouselItem className="item" index={0}>
-                  <img className='first fade-all-sides' src={src}  alt={photo.description || ''} style={{ '--width': photo.width, '--height': photo.height } as any} />
-                  <h2>Our Specimen</h2>
+                  <img className='first fade-all-sides heightRestrict' src={src}  alt={photo.id || ''} style={{ '--width': photo.width, '--height': photo.height } as any} />
+                  <h2 >{t("ALivingReconstructionOfThe")}  {t(photo.specimenName+".Name")}</h2><h2 className='artistCredit'>{t(photo.specimenName+".AristAtt")}</h2>
                 </CarouselItem>
                 <CarouselItem className="item" index={1}>
                   <img src={photo.photoAlive} className='fade-all-sides'/>
-                  <h2>The Living Specimen</h2>
+                  <h2 >{t("The")} {t(photo.specimenName+".Name")} {t("onDisplay")}</h2>
                 </CarouselItem>
-                <CarouselItem className="item" index={2}>
+          {/*      <CarouselItem className="item" index={2}>
                   <img src="photos\rockwall.jpg" />
                   <h2>Location in wall</h2>
                 </CarouselItem>
+                */} 
               </CarouselScroller>
                             </div>
               <CarouselButton className="button buttonRight" dir="next" data-dir="next">
@@ -218,8 +220,8 @@ if(element){
                   
 
                           <div className="quickFacts">
-          <h1>{t(photo.specimenName+".Name")}</h1>
-          <h2 className='factInfo'>{t(photo.specimenName+".ScientificName")}</h2>
+          <h1 className={`${t(photo.specimenName+".TimePeriod")} factTitle`}>    {t(photo.specimenName+".ScientificName")}</h1>
+          <h2 className='factInfo'>{t(photo.specimenName+".NickName")}</h2>
 
           <div className='factSection'>
             <img className='factImg imgToWhite' src={photo.isThisADinoPic}></img>
@@ -230,9 +232,9 @@ if(element){
           </div>
 
           <div className='factSection'>
-            <img className='factImg imgToWhite' src={photo.locationSvg}></img>
+            <img className='factImg imgToWhite locationImg' src={photo.locationSvg}></img>
             <div className='factInfo'>
-             <p> {t(photo.specimenName+".Location")}</p>
+             <p> {t(photo.specimenName+".Location")} <span className={`${t(photo.specimenName+".TimePeriod")}`}>{t(photo.specimenName+".TimePeriodText")}</span> <span className={`${t(photo.specimenName+".TimePeriod2")}`}>{t(photo.specimenName+".TimePeriodText2")}</span></p>
               </div>
           </div>
 

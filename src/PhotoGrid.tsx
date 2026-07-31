@@ -54,8 +54,8 @@ export function PhotoGrid({photos, onAction, hidden, toggleSidebar}: PhotoGridPr
             aria-label="Photo size"
             className="toolbar-Slider"
             minValue={200}
-            maxValue={300}
-            step={10}
+            maxValue={450}
+            step={50}
             value={size}
             onChange={setSize}>
             <SliderTrack>
@@ -119,7 +119,7 @@ function PhotoItem({photo, onAction}: PhotoItemProps) {
     <GridListItem
       id={photo.id}
       value={photo}
-      textValue={photo.description //|| photo.username
+      textValue={photo.id //|| photo.username
         }
       className="photo-item"
       onAction={() => {

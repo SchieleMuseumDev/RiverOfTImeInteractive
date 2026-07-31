@@ -3,37 +3,24 @@
     "id": "Deinosuchus",
         "album": "Late Cretaceous",
     "urls": {
-      "raw": "photos/Deinosuchus.jpg",
-      "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Deinosuchus.jpg",
-      "small": "photos/Deinosuchus.jpg",
+      "raw": "photos/Deinosuchus-A.jpg",
+      "full": "photos/Deinosuchus-A.jpg",
+      "regular": "photos/Deinosuchus-A.jpg",
+      "small": "photos/Deinosuchus-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 120,
     "height": 100,
     "specimenName": "Deinosuchus",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico During The Late Cretaceous",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
+        "Att":" Illustrated by Raul Martin",
+  "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
-
-              "hookTitle": "The Terror Crocodile",
-"description": "Deinosuchus is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"
-,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
@@ -49,18 +36,12 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 125,
     "height": 100,
     "specimenName": "Giant Ground Sloth",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -68,11 +49,8 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Giant Ground Sloth is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "No, sloths are mammals"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
@@ -89,18 +67,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 125,
     "height": 100,
     "specimenName": "Bootherium Bombifrons",
-    "scientificName": "Bootherium Bombifrons",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/Bootherium-A.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -108,18 +81,15 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Bootherium is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
 
   {
     "id": "Mammoth Tusk",
-        "album": "Mammoth Tusk",
+        "album": ["Miocene", "Pleistocene"],
     "urls": {
       "raw": "photos/mammoth.jpg",
       "full": "photos/mammoth.jpg",
@@ -128,18 +98,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 200,
     "height": 100,
     "specimenName": "Mammoth Tusk",
-    "scientificName": "Mammoth",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -147,55 +112,15 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Mammoth Tusk is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
-  {
-    "id": "Cetacean Vertebrae",
-        "album": "Cetacean Vertebrae",
-    "urls": {
-      "raw": "photos/cetacean.jpg",
-      "full": "photos/cetacean.jpg",
-      "regular": "photos/cetacean.jpg",
-      "small": "photos/cetacean.jpg",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
-    ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 125,
-    "height": 100,
-    "specimenName": "Cetacean Vertebrae",
-    "scientificName": "Cetacean Vertebrae",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
-
-              "hookTitle": "The Terror Crocodile",
-"description": "Cetacean Vertebrae is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
 
 {
     "id": "Horse Teeth",
-        "album": "Pleistocene",
+        "album": ["Pleistocene", "Miocene"],
     "urls": {
       "raw": "photos/horseSkull.jpg",
       "full": "photos/horseSkull.jpg",
@@ -204,18 +129,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 120,
     "height": 100,
     "specimenName": "Horse Teeth",
-    "scientificName": "Horse Teeth",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/Equus-A.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -223,92 +143,13 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Horse Teeth is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"        
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-{
-    "id": "Deer Horn",
-        "album": "Pleistocene",
-    "urls": {
-      "raw": "photos/deerHorn.webp",
-      "full": "photos/deerHorn.webp",
-      "regular": "photos/deerHorn.webp",
-      "small": "photos/deerHorn.webp",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
-    ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 120,
-    "height": 100,
-    "specimenName": "Deer Horn",
-    "scientificName": "Deer Horn",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/Exogyra.JPG",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
-
-              "hookTitle": "The Terror Crocodile",
-"description": "Deer Horn is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"        
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-     {
-    "id": "Homo Sapien",
-    "album": "Pleistocene",
-    "urls": {
-      "raw": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0",
-      "full": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=85",
-      "regular": "photos/homoSapienFragments.jpg",
-      "small": "photos/homoSapienFragments.jpg",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"
-    ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 100,
-    "height": 80,
-        "specimenName": "Homo Sapien",
-            "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
-
-              "hookTitle": "The Terror Crocodile",
-"description": "Homo Sapien is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-
 
   {
     "id": "Otodus Megalodon",
-    "album": "Miocene",
+    "album": ["Miocene","Pliocene"],
     "urls": {
       "raw": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0",
       "full": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=85",
@@ -317,18 +158,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 5000,
     "height": 3936,
         "specimenName": "Otodus Megalodon",
-            "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -336,10 +172,7 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Otodus Megalodon is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
    {
@@ -348,23 +181,18 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Xiphiacetus.jpg",
+      "regular": "photos/Eurhinodelphis-A.jpg",
       "small": "photos/Eurhinodelphis-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 200,
     "height": 150,
     "specimenName": "Xiphiacetus",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -372,11 +200,8 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Xiphiacetus is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
@@ -386,23 +211,18 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/prionochelys.webp",
-      "small": "photos/prionochelys.webp",
+      "regular": "photos/Prionochelys-A-DavidWilliams.jpg",
+      "small": "photos/Prionochelys-A-DavidWilliams.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 100,
-    "height": 100,
+    "height": 150,
     "specimenName": "Prinonchelys",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -410,11 +230,8 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Prinonchelys is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
@@ -429,18 +246,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 100,
     "height": 150,
     "specimenName": "Mosasaur",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -448,11 +260,8 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Mosasaur is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"    
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
          {
@@ -461,23 +270,18 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/plesiosaurSkel.jpg",
-      "small": "photos/plesiosaurSkel.jpg",
+      "regular": "photos/Plesiosaur-A.jpg",
+      "small": "photos/Plesiosaur-A.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 150,
     "height": 100,
     "specimenName": "Plesiosaur",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -485,52 +289,12 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Plesiosaur is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
 
-           {
-    "id": "Ammonite",
-        "album": "Jurassic",
-    "urls": {
-      "raw": "photos/Ammonite.jpg",
-      "full": "photos/Ammonite.jpg",
-      "regular": "photos/Ammonite.jpg",
-      "small": "photos/Ammonite.jpg",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
-    ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 150,
-    "height": 100,
-    "specimenName": "Ammonite",
-    "scientificName": "Ammonite",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
-
-              "hookTitle": "The Terror Crocodile",
-"description": "Ammonite is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
 
   {
     "id": "Hadrosaur Jaw",
@@ -543,18 +307,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 150,
     "height": 100,
     "specimenName": "Hadrosaur Jaw",
-    "scientificName": "Hadrosaur Jaw",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -562,18 +321,15 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Hadrosaur is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"    
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
 
            {
     "id": "Grallator dinosaur track",
-        "album": "Triassic",
+        "album": ["Triassic", "Jurassic", "Late Cretaceous"],
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
@@ -582,18 +338,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 125,
+    "width": 100,
     "height": 150,
     "specimenName": "Grallator Tracks",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -601,55 +352,78 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Grallator is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
-             {
-    "id": "reptile / amphibian trackway",
-        "album": "Triassic",
+   {
+    "id": "Gorgetosuchus",
+        "album": ["Triassic"],
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/reptileTracks.jpg",
-      "small": "photos/reptileTracks.jpg",
+      "regular": "photos/Gorgetosuchus-a.jpg",
+      "small": "photos/Gorgetosuchus-a.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 175,
+    "height": 100,
+    "specimenName": "Gorgetosuchus",
+              "Att":"",
+      "photoAlive": "Gorgetosuchus-a.jpg",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+  
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+
+
+   {
+    "id": "Dromicosuchus",
+        "album": ["Triassic"],
+    "urls": {
+      "raw": "photos/Deinosuchus.jpg",
+      "full": "photos/Deinosuchus.jpg",
+      "regular": "photos/Dromicosuchus-a.jpg",
+      "small": "photos/Dromicosuchus-a.jpg",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 150,
     "height": 100,
-    "specimenName": "reptile / amphibian trackway",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+    "specimenName": "Dromicosuchus",
+              "Att":"",
+      "photoAlive": "Gorgetosuchus-a.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "reptile Trackways is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
 
+
+
 {
     "id": "Exogyra",
-        "album": "Triassic",
+        "album": ["Jurassic","Late Cretaceous"],
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
@@ -658,18 +432,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 120,
     "height": 100,
     "specimenName": "Exogyra",
-    "scientificName": "Exogyra",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/Exogyra.JPG",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -677,16 +446,13 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Exogyra is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"        
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
        {
     "id": "Helicoprion",
-        "album": "Permian",
+        "album": ["Permian"],
     "urls": {
       "raw": "photos/Helicoprion.jpg",
       "full": "photos/Helicoprion.jpg",
@@ -695,18 +461,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 150,
     "height": 100,
     "specimenName": "Helicoprion",
-    "scientificName": "Helicoprion",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -714,56 +475,15 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Helicoprion is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
-
-             {
-    "id": "Plant Fossils",
-        "album": "Pennsylvanian",
-    "urls": {
-      "raw": "photos/Deinosuchus.jpg",
-      "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/plantFossils.jpg",
-      "small": "photos/plantFossils.jpg",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
-    ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 150,
-    "height": 100,
-    "specimenName": "Plant Fossils",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
-
-              "hookTitle": "The Terror Crocodile",
-"description": "Plant Fossils is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
 
   {
     "id": "Diplocaulus",
-        "album": "Pennsylvanian",
+        "album": ["Pennsylvanian","Permian"],
     "urls": {
       "raw": "photos/Diplocaulus.jpg",
       "full": "photos/Diplocaulus.jpg",
@@ -772,18 +492,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 150,
     "height": 100,
     "specimenName": "Diplocaulus",
-    "scientificName": "Diplocaulus",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -791,37 +506,29 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Diplocaulus is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
                {
     "id": "Crinoids",
-        "album": "Mahantango Formation",
+        "album": "Jurassic",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/crinoidFossil.jpg",
-      "small": "photos/crinoidFossil.jpg",
+      "regular": "photos/Crinoids-a.jpg",
+      "small": "photos/Crinoids-a.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 150,
     "height": 100,
     "specimenName": "Crinoids",
-        "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -829,37 +536,29 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Crinoids is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
   
                {
     "id": "Giant Sea Scorpion",
-        "album": "Devonian",
+        "album": "Silurian",
     "urls": {
-      "raw": "photos/Deinosuchus.jpg",
-      "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/seaScorpion.jpg",
-      "small": "photos/seaScorpion.jpg",
+      "raw": "photos/Mixopterus-a.jpg",
+      "full": "photos/Mixopterus-a.jpg",
+      "regular": "photos/Mixopterus-a.jpg",
+      "small": "photos/Mixopterus-a.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 100,
     "height": 150,
     "specimenName": "Giant Sea Scorpion",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -867,11 +566,8 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Giant Sea Scorpion is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
                  {
@@ -885,18 +581,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 100,
     "height": 75,
     "specimenName": "Tiktaalik",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -904,13 +595,11 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Tiktaalik is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
+
                    {
     "id": "Bothriolepis",
         "album": "Devonian",
@@ -922,18 +611,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 150,
     "height": 100,
     "specimenName": "Bothriolepis",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/bothriolepis-A.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -941,54 +625,14 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Bothriolepis is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-                    {
-    "id": "Trilobites",
-        "album": "Cambrian",
-    "urls": {
-      "raw": "photos/Deinosuchus.jpg",
-      "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/trilobiteFossil.jpg",
-      "small": "photos/trilobiteFossil.jpg",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
-    ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 100,
-    "height": 100,
-    "specimenName": "Trilobites",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
+  
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Trilobites is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
                       {
     "id": "Terataspis",
-        "album": "Cambrian",
+        "album": "Devonian",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
@@ -997,18 +641,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 100,
     "height": 150,
     "specimenName": "Terataspis",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -1016,92 +655,45 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Terataspis is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
-                      {
-    "id": "Anomalocaris",
-        "album": "Cambrian",
+ {
+    "id": "Eldredgeops",
+        "album": "Devonian",
     "urls": {
-      "raw": "photos/Deinosuchus.jpg",
-      "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Anomalocaris.jpg",
-      "small": "photos/Anomalocaris.jpg",
+      "raw": "photos/Eldgredgeops-a.jpg",
+      "full": "photos/Eldgredgeops-a.jpg",
+      "regular": "photos/Eldgredgeops-a.jpg",
+      "small": "photos/Eldgredgeops-a.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 100,
+    "width": 150,
     "height": 100,
-    "specimenName": "Anomalocaris",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+    "specimenName": "Eldredgeops",
+              "Att":"",
+      "photoAlive": "photos/Eldredgeops.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Anomalocaris is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-                      {
-    "id": "Pikaia gracilens",
-        "album": "Cambrian",
-    "urls": {
-      "raw": "photos/Deinosuchus.jpg",
-      "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Pikaia-A.jpg",
-      "small": "photos/Pikaia-A.jpg",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
-    ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 100,
-    "height": 150,
-    "specimenName": "Pikaia gracilens",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
+  
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Pikaia gracilens is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
 "isThisADinoPic": "photos/isThisADino.svg"
 },
+
 
                         {
     "id": "Aspidella",
-        "album": "Cambrian",
+        "album": "Ediacaran",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
@@ -1110,18 +702,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 100,
     "height": 100,
     "specimenName": "Aspidella",
-    "scientificName": "Deinosuchus schwimmeri",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -1129,11 +716,8 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Aspidella is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
@@ -1141,25 +725,20 @@
     "id": "Wiwaxia",
         "album": "Cambrian",
     "urls": {
-      "raw": "photos/Wiwaxia.JPG",
-      "full": "photos/Wiwaxia.JPG",
-      "regular": "photos/Wiwaxia.jpg",
-      "small": "photos/Wiwaxia.jpg",
+      "raw": "photos/Wiwaxia-a.jpg",
+      "full": "photos/Wiwaxia-a.jpg",
+      "regular": "photos/Wiwaxia-a.jpg",
+      "small": "photos/Wiwaxia-a.jpg",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 100,
+    "width": 150,
     "height": 100,
     "specimenName": "Wiwaxia ",
-    "scientificName": "Wiwaxia ",
-      "location":"United States (North Carolina, Montana, Texas, New Jersey), and Northern Mexico",
-      "habitat":"coastal, estuary, and rivers",
-      "sizeText":  "Adults have been found to be over 35 ft!",
-      "diet":"large sea turtles, fish, and dinosaurs",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -1167,11 +746,8 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Wiwaxia is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
-  ,
-"isThisADino": "This is not a dinosaur because it is from the crocodile / alligator lineage!"
-,
+  
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
@@ -1186,18 +762,13 @@
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
-"isThisADino": "No, these are way older than dinosaurs!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 },
     "width": 75,
     "height": 100,
     "specimenName": "Hallucigenia",
-    "scientificName": "Hallucigenia",
-      "location":"Cambrian of North America and Asia.",
-      "habitat":"Deep Ocean.",
-      "sizeText":"small",
-      "diet":"Jellyfish and Soft Bodied Animals.",
+              "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
@@ -1205,10 +776,7 @@
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
 
-              "hookTitle": "The Terror Crocodile",
-"description": "Hallucigenia is an extinct genus of eusuchian, either an alligatoroid crocodilian or a stem-group crocodilian, which lived during the Late Cretaceous around 82 to 73 million years ago. The first remains were discovered in North Carolina"      
- , "isThisADino": "No, these are way older than dinosaurs!"
-,
+
 "isThisADinoPic": "photos/isThisADino.svg"
 }
 

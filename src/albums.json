@@ -3,6 +3,10 @@
     "id": "Pleistocene",
     "name": "Pleistocene"
   },
+    {
+    "id": "Pliocene",
+    "name": "Pliocene"
+  },
   {
     "id": "Miocene",
     "name": "Miocene"
@@ -34,12 +38,16 @@
       { "id": "Mahantango Formation", "name": "Mahantango Formation" },
       { "id": "Blue Ridge Ophiolite", "name": "Blue Ridge Ophiolite" }]
   },
+      {
+    "id": "Silurian",
+    "name": "Silurian"
+  },
     {
     "id": "Cambrian",
     "name": "Cambrian"
   },
       {
-    "id": "Precambrian / Ediacaran",
-    "name": "Precambrian / Ediacaran"
+    "id": "Precambrian",
+    "name": "Precambrian"
   }
 ]

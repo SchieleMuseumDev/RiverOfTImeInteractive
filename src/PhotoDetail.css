@@ -50,14 +50,20 @@
             width: 99%;
             overflow: hidden;
               h1{
-    margin: 0 0 0vh 1rem;
+    margin: 0 0 0vh 0;
   font-size: clamp(1rem, 3vw + 1rem, 5rem);
-  align-self: flex-start;
+    font-style: italic;
+      line-height: 3rem;
+
+  }
+  .factTitle{
+    font-style: normal;
   }
 
   h2{
+    padding: .5rem 5rem 0 0;
     font-style: italic;
-    align-self: flex-start;
+    font-weight: normal
   }
 
     .factSection {
@@ -65,30 +71,36 @@
       flex-direction: row;
       flex: 1;
       align-items: center;
+      padding-left: 1rem;
 
       .factInfo{
-        padding: 0 5%;
+        padding: 0 0%;
         text-align: left;
-      
       }
       
     }
-
     .factImg {
       view-transition-name: none;
-      height: 10vh;
+      width: 5rem;
       margin: 0 5%;
+    }
+    .locationImg{
+      height: 60%;
+      object-fit: fill
     }
 
     .imgToWhite{
       filter: brightness(0) saturate(100%) invert(100%) sepia(14%) saturate(3566%) hue-rotate(293deg) brightness(131%) contrast(102%);
     }
   }
-
+  .artistCredit{
+    font-style: italic;
+    font-weight: normal;
+  }
 
   .desc {
     box-sizing: border-box;
-    padding: 0 3%;
+    padding: 0 2rem;
     text-align: left;
                 width: 90%;
 
@@ -140,6 +152,81 @@
   }
 }
 
+
+.HoloceneText{
+  color: rgb(5, 193, 55) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.PleistoceneText{
+  color: #ffd359 !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.Pliocene{
+    color: #ffd359 !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.MioceneText{
+    color: #d2996c !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.KTExtinctionText{
+    color: rgb(255, 255, 255) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.CretaceousText{
+  color: rgb(0, 136, 255 ) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.JurassicText{
+    color: rgb(203, 3, 233) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.TriassicText{
+    color: rgb(255, 136, 0) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.PermianText{
+    color: rgb(119, 205, 118) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.PennsylvanianText{
+    color: rgb(154, 24, 24) !important;
+  font-style: bold !important;
+  font-weight: 800 !important;
+}
+.DevonianText{
+    color: rgb(243, 69, 26) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.SilurianText{
+      color: #b3e1b6 !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.CambrianText{
+    color: rgb(180, 217, 250) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+.Pre-CambianText{
+    color: rgb(90, 0, 83) !important;
+  font-style: bold;
+  font-weight: 800 !important;
+}
+
+
+
+
 .photo-info {
   flex: 1;
   display: flex;
@@ -173,6 +260,8 @@
 }
 
 .fade-all-sides {
+  padding-left: 1rem;
+  width: 100%;
   /* Standard syntax for modern browsers */
   mask-image: radial-gradient(
     circle, 
@@ -187,14 +276,17 @@
     transparent 100%
   );
 }
+.heightRestrict{
+  max-height: 70vh;
+}
 
 .pictureCarousel{
   padding-top: 2vh;
-  width: 55%;
+  width: 60%;
   height: 88vh;
 }
 .skinnyCaro{
-  width: 45%;
+  width: 40%;
 }
 
 .root {
@@ -304,7 +396,6 @@
  
 .root img {
   margin: 0;
-        height: 90%;
         object-fit: cover;
           object-position: center; /* (Optional) Focus on the center of the image */
 

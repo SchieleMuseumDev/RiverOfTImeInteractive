@@ -45,11 +45,11 @@ export function PhotoDetail({photo, onBack}: PhotoDetailProps) {
         </Button>
         <div className="photo-info">
           <span>{photo.specimenName}</span>
-          {photo.description && <span>{photo.description}</span>}
+          {photo.specimenName && <span>{photo.specimenName}</span>}
         </div>
       </div>
       <div className="photo-detail">
-        <img src={src} alt={photo.description || ''} style={{'--width': photo.width, '--height': photo.height} as any} />
+        <img src={src} alt={photo.specimenName || ''} style={{'--width': photo.width, '--height': photo.height} as any} />
       </div>
     </div>
   );
