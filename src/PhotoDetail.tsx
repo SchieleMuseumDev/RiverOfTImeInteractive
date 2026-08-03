@@ -89,7 +89,7 @@ if(element){
           {/*<span>{"TBA"}</span>*/}
         </div>
         <MenuTrigger>
-  <Button aria-label="Actions">
+  <Button className='hideButton' aria-label="Actions">
     <Ellipsis size={18} />
   </Button>
   <Menu>
@@ -177,7 +177,7 @@ if(element){
               <CarouselScroller className="scroller">
                 <CarouselItem className="item" index={0}>
                   <img className='first fade-all-sides heightRestrict' src={src}  alt={photo.id || ''} style={{ '--width': photo.width, '--height': photo.height } as any} />
-                  <h2 >{t("ALivingReconstructionOfThe")}  {t(photo.specimenName+".Name")}</h2><h2 className='artistCredit'>{t(photo.specimenName+".AristAtt")}</h2>
+                  <h2 className="caption">{t("ALivingReconstructionOfThe")}  {t(photo.specimenName+".Name")}</h2><h2 className='artistCredit'>{t(photo.specimenName+".AristAtt")}</h2>
                 </CarouselItem>
                 <CarouselItem className="item" index={1}>
                   <img src={photo.photoAlive} className='fade-all-sides'/>

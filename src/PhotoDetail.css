@@ -57,12 +57,12 @@
 
   }
   .factTitle{
-    font-style: normal;
+    font-style: italic;
   }
 
   h2{
     padding: .5rem 5rem 0 0;
-    font-style: italic;
+    font-style: normal;
     font-weight: normal
   }
 
@@ -93,16 +93,29 @@
       filter: brightness(0) saturate(100%) invert(100%) sepia(14%) saturate(3566%) hue-rotate(293deg) brightness(131%) contrast(102%);
     }
   }
+  .caption{
+    font-weight: 400;
+    font-size: 1.20rem;
+  }
   .artistCredit{
     font-style: italic;
     font-weight: normal;
+    font-weight: 300;
+        font-size: 1.1rem;
   }
 
   .desc {
     box-sizing: border-box;
-    padding: 0 2rem;
-    text-align: left;
+    padding: 0 1rem;
                 width: 90%;
+
+                h1{
+                  font-size: 3.25rem;
+                  align-self: center;
+                  text-align: center;
+                  line-height: 3.25rem;
+                  font-weight: 600;
+                }
 
     h2{
       align-self: flex-start;
@@ -112,6 +125,8 @@
 
   p{
     white-space: pre-wrap;
+    font-weight: 400;
+    font-size: 1.1rem;
   }
   }
   .desc1{
@@ -249,9 +264,9 @@
   mask-image: linear-gradient(to right, #111 60%, transparent 98%);
 }
 .fade-rightNew {
-  -webkit-mask-image: linear-gradient(to left, #111 5%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to left, #111 0%, transparent 100%);
     mask-image: linear-gradient(to left, #111 5%, transparent 100%);
-  background: linear-gradient(to left, #111 5%, transparent 100%);
+  background: linear-gradient(to left, #111 0%, transparent 50%);
   position: absolute;
   width: 101%;
   height: 100%;
@@ -265,7 +280,7 @@
   /* Standard syntax for modern browsers */
   mask-image: radial-gradient(
     circle, 
-    black 60%, 
+    black 100%, 
     transparent 100%
   );
   

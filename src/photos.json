@@ -54,9 +54,127 @@
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
+{
+    "id": "Hadrosaur Jaw",
+        "album": "Late Cretaceous",
+    "urls": {
+      "raw": "photos/hadrosaurJaw.png",
+      "full": "photos/hadrosaurJaw.png",
+      "regular": "photos/Hypacrosaurus-A.jpg",
+      "small": "photos/Hypacrosaurus-A.jpg",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
 
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 150,
+    "height": 100,
+    "specimenName": "Hadrosaur Jaw",
+              "Att":"",
+      "photoAlive": "photos/DeinosuchusLive.avif",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+  
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
 
   {
+    "id": "Helicoprion",
+        "album": ["Permian"],
+    "urls": {
+      "raw": "photos/Helicoprion.jpg",
+      "full": "photos/Helicoprion.jpg",
+      "regular": "photos/Helicoprion-A.jpg",
+      "small": "photos/Helicoprion-A.jpg",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 150,
+    "height": 100,
+    "specimenName": "Helicoprion",
+              "Att":"",
+      "photoAlive": "photos/DeinosuchusLive.avif",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+  
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+
+  {
+    "id": "Tiktaalik",
+        "album": "Devonian",
+    "urls": {
+      "raw": "photos/Deinosuchus.jpg",
+      "full": "photos/Deinosuchus.jpg",
+      "regular": "photos/Tiktaalik-A.jpg",
+      "small": "photos/Tiktaalik-A.jpg",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 100,
+    "height": 75,
+    "specimenName": "Tiktaalik",
+              "Att":"",
+      "photoAlive": "photos/DeinosuchusLive.avif",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+  
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+
+{
+    "id": "Hallucigenia",
+        "album": "Cambrian",
+    "urls": {
+      "raw": "photos/hallucigenia.jpg",
+      "full": "photos/hallucigenia.jpg",
+      "regular": "photos/Hallucigenia-A.jpg",
+      "small": "photos/Hallucigenia-A.jpg",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 75,
+    "height": 100,
+    "specimenName": "Hallucigenia",
+              "Att":"",
+      "photoAlive": "photos/DeinosuchusLive.avif",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+
+
+ {
     "id": "Bootherium Bombifrons",
         "album": "Pleistocene",
     "urls": {
@@ -85,6 +203,37 @@
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
+{
+    "id": "Casteroides ",
+        "album": "Pleistocene",
+    "urls": {
+      "raw": "photos/groundslothPlaceHolder.webp",
+      "full": "photos/groundslothPlaceHolder.webp",
+      "regular": "photos/Castoroides-a.png",
+      "small": "photos/Castoroides-a.png",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 150,
+    "height": 100,
+    "specimenName": "Casteroides",
+              "Att":"",
+      "photoAlive": "photos/DeinosuchusLive.avif",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+  
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+
+
+
 
 
   {
@@ -296,35 +445,6 @@
 
 
 
-  {
-    "id": "Hadrosaur Jaw",
-        "album": "Late Cretaceous",
-    "urls": {
-      "raw": "photos/hadrosaurJaw.png",
-      "full": "photos/hadrosaurJaw.png",
-      "regular": "photos/Hypacrosaurus-A.jpg",
-      "small": "photos/Hypacrosaurus-A.jpg",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
-    ,
-
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 150,
-    "height": 100,
-    "specimenName": "Hadrosaur Jaw",
-              "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
-
-  
-
-"isThisADinoPic": "photos/isThisADino.svg"
-},
 
 
            {
@@ -333,16 +453,16 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Grallator-A.jpg",
-      "small": "photos/Grallator-A.jpg",
+      "regular": "photos/Grallator-A.png",
+      "small": "photos/Grallator-A.png",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 100,
-    "height": 150,
+    "width": 125,
+    "height": 100,
     "specimenName": "Grallator Tracks",
               "Att":"",
       "photoAlive": "photos/DeinosuchusLive.avif",
@@ -363,8 +483,8 @@
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
       "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Gorgetosuchus-a.jpg",
-      "small": "photos/Gorgetosuchus-a.jpg",
+      "regular": "photos/Gorgetosuchus-a.png",
+      "small": "photos/Gorgetosuchus-a.png",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
@@ -374,6 +494,35 @@
     "width": 175,
     "height": 100,
     "specimenName": "Gorgetosuchus",
+              "Att":"",
+      "photoAlive": "Gorgetosuchus-a.png",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+  
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+ {
+    "id": "Postosuchus",
+        "album": ["Triassic"],
+    "urls": {
+      "raw": "photos/Postosuchus-a.png",
+      "full": "photos/Postosuchus-a.png",
+      "regular": "photos/Postosuchus-a.png",
+      "small": "photos/Postosuchus-a.png",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 175,
+    "height": 100,
+    "specimenName": "Postosuchus",
               "Att":"",
       "photoAlive": "Gorgetosuchus-a.jpg",
          "locationSvg": "photos/clockLocation.svg",
@@ -386,7 +535,6 @@
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-
 
    {
     "id": "Dromicosuchus",
@@ -450,35 +598,6 @@
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-       {
-    "id": "Helicoprion",
-        "album": ["Permian"],
-    "urls": {
-      "raw": "photos/Helicoprion.jpg",
-      "full": "photos/Helicoprion.jpg",
-      "regular": "photos/Helicoprion-A.jpg",
-      "small": "photos/Helicoprion-A.jpg",
-      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
-      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
-    ,
-
-"isThisADinoPic": "photos/isThisADino.svg"
-},
-    "width": 150,
-    "height": 100,
-    "specimenName": "Helicoprion",
-              "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
-         "locationSvg": "photos/clockLocation.svg",
-     "eraSvg": "photos/Anonymous-Time-icon.svg",
-        "habitatSvg": "photos/claudita-home-icon.svg",
-      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
-          "dietSvg": "photos/fishIcon.webp",
-
-  
-
-"isThisADinoPic": "photos/isThisADino.svg"
-},
 
 
   {
@@ -507,6 +626,62 @@
           "dietSvg": "photos/fishIcon.webp",
 
   
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+  {
+    "id": "Boreogomphodon",
+        "album": "Triassic",
+    "urls": {
+      "raw": "photos/Boreogomphodon-a.png",
+      "full": "photos/Boreogomphodon-a.png",
+      "regular": "photos/Boreogomphodon-a.png",
+      "small": "photos/Boreogomphodon-a.png",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 125,
+    "height": 100,
+    "specimenName": "Boreogomphodon",
+              "Att":"",
+      "photoAlive": "photos/Swartpuntia-a.png",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+  {
+    "id": "Coahomasuchus",
+        "album": "Triassic",
+    "urls": {
+      "raw": "photos/Coahomasuchus-a.png",
+      "full": "photos/Coahomasuchus-a.png",
+      "regular": "photos/Coahomasuchus-a.png",
+      "small": "photos/Coahomasuchus-a.png",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 175,
+    "height": 100,
+    "specimenName": "Coahomasuchus",
+              "Att":"",
+      "photoAlive": "photos/Swartpuntia-a.png",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
@@ -543,7 +718,7 @@
   
                {
     "id": "Giant Sea Scorpion",
-        "album": "Silurian",
+        "album": "Devonian",
     "urls": {
       "raw": "photos/Mixopterus-a.jpg",
       "full": "photos/Mixopterus-a.jpg",
@@ -570,25 +745,26 @@
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-                 {
-    "id": "Tiktaalik",
+
+{
+    "id": "Xenacanthus",
         "album": "Devonian",
     "urls": {
-      "raw": "photos/Deinosuchus.jpg",
-      "full": "photos/Deinosuchus.jpg",
-      "regular": "photos/Tiktaalik-A.jpg",
-      "small": "photos/Tiktaalik-A.jpg",
+      "raw": "photos/Xenacanthus-a.png",
+      "full": "photos/Xenacanthus-a.png",
+      "regular": "photos/Xenacanthus-a.png",
+      "small": "photos/Xenacanthus-a.png",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 100,
-    "height": 75,
-    "specimenName": "Tiktaalik",
+    "width": 150,
+    "height": 100,
+    "specimenName": "Xenacanthus",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/Xenacanthus-a.png",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -599,6 +775,7 @@
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
+            
 
                    {
     "id": "Bothriolepis",
@@ -751,25 +928,56 @@
 "isThisADinoPic": "photos/isThisADino.svg"
 },
 
+
+
   {
-    "id": "Hallucigenia",
-        "album": "Cambrian",
+    "id": "Swartpuntia",
+        "album": "Precambrian",
     "urls": {
       "raw": "photos/hallucigenia.jpg",
       "full": "photos/hallucigenia.jpg",
-      "regular": "photos/Hallucigenia-A.jpg",
-      "small": "photos/Hallucigenia-A.jpg",
+      "regular": "photos/Swartpuntia-a.png",
+      "small": "photos/Swartpuntia-a.png",
       "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
       "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
     ,
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 75,
-    "height": 100,
-    "specimenName": "Hallucigenia",
+    "width": 100,
+    "height": 125,
+    "specimenName": "Swartpuntia",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/Swartpuntia-a.png",
+         "locationSvg": "photos/clockLocation.svg",
+     "eraSvg": "photos/Anonymous-Time-icon.svg",
+        "habitatSvg": "photos/claudita-home-icon.svg",
+      "sizeSvg":  "photos/ruler-svgrepo-com.svg",
+          "dietSvg": "photos/fishIcon.webp",
+
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+
+  {
+    "id": "Pteridinium",
+        "album": "Precambrian",
+    "urls": {
+      "raw": "photos/Pteridinium-a.png",
+      "full": "photos/Pteridinium-a.png",
+      "regular": "photos/Pteridinium-a.png",
+      "small": "photos/Pteridinium-a.png",
+      "thumb": "https://images.unsplash.com/photo-1756951481897-5dfbb90f4e62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzNDA4NDh8MHwxfHNlYXJjaHwxN3x8Q2FuZGlkc3xlbnwwfHx8fDE3NTcwNzMxODB8MA&ixlib=rb-4.1.0&q=80&w=200",
+      "small_s3": "https://s3.us-west-2.amazonaws.com/images.unsplash.com/small/photo-1756951481897-5dfbb90f4e62"  
+    ,
+
+"isThisADinoPic": "photos/isThisADino.svg"
+},
+    "width": 100,
+    "height": 100,
+    "specimenName": "Pteridinium",
+              "Att":"",
+      "photoAlive": "photos/Swartpuntia-a.png",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",

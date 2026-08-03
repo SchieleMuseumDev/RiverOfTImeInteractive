@@ -33,10 +33,7 @@
   },
   {
     "id": "Devonian",
-    "name": "Devonian",
-    "children": [
-      { "id": "Mahantango Formation", "name": "Mahantango Formation" },
-      { "id": "Blue Ridge Ophiolite", "name": "Blue Ridge Ophiolite" }]
+    "name": "Devonian"
   },
       {
     "id": "Silurian",

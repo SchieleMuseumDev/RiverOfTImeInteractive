@@ -70,7 +70,7 @@ export function PhotoGrid({photos, onAction, hidden, toggleSidebar}: PhotoGridPr
 
 
 <MenuTrigger>
-  <Button aria-label="Actions">
+  <Button className='hideButton' aria-label="Actions">
     <Ellipsis size={18} />
   </Button>
   <Menu>

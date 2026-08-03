@@ -46,8 +46,8 @@ html::-webkit-scrollbar {
   align-items: center;
   flex-shrink: 0;
   gap: 16px;
-  border-bottom: 1px solid light-dark(#eee, #222);
-  background: light-dark(#fdfdfd, #1d1d1d);
+  /*border-bottom: 1px solid light-dark(#eee, #222);*/
+  background: light-dark(#fdfdfd, rgba(255, 222, 222, 0));
   zoom: var(--scale);
 
   @media (width >= 500px) {
@@ -64,7 +64,7 @@ html::-webkit-scrollbar {
 }
 
 .toolbar-Button {
-  background: light-dark(#ddd, #4bd1bf);
+  background: light-dark(#ddd, #f9eddc);
   color: light-dark(rgb(0, 0, 0), white);
   border: none;
   border-radius: 50%;
@@ -99,6 +99,9 @@ html::-webkit-scrollbar {
   align-items: center;
   align-content: center;
 }
+    .hideButton{
+      display: none;
+    }
 .navSvg{
   height: 2rem;
   padding: 0;
@@ -119,6 +122,7 @@ html::-webkit-scrollbar {
       background: light-dark(#ccc, #666);
       border-radius: 99px;
     }
+
   }
 
   .react-aria-SliderThumb {
