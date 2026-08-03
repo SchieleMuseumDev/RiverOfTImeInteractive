@@ -1,7 +1,7 @@
 {
         "Pleistocene":"Pleistocene",
         "Miocene":"Miocene",
-        "Late Cretaceous":"Late Cretaceous",
+        "Late Cretaceous":"Cretaceous",
         "Jurassic":"Jurassic",
         "Triassic":"Triassic",
         "Permian":"Permian",
@@ -22,9 +22,9 @@
 
     "Deinosuchus":{
         "Name":"Deinosuchus",
-                "NickName": "The Terrible Crocodile",
+                "NickName": "The Dino Eating Croc",
                 "AristAtt":"(Illustrated by Raul Martin)",
-        "ScientificName":"Deinosuchus schwimmeri",
+        "ScientificName":"Deinosuchus Schwimmeri",
         "IsDino":"No, crocodilians aren't dinosaurs.",
         "TimePeriod":"CretaceousText",
         "TimePeriod2":"",
@@ -42,7 +42,7 @@
         "Name":"Giant Ground Sloth",
                 "NickName": "Jefferson's Ground Sloth",
                 "AristAtt":"",       
-        "ScientificName":"Megalonyx jeffersoni",
+        "ScientificName":"Megalonyx Jeffersoni",
         "IsDino":"No, sloths are mammals",
         "TimePeriod":"PleistoceneText",
         "TimePeriod2":"",
@@ -52,14 +52,14 @@
         "Habitat":"Forests and Caves",
         "Size":"",
         "Diet":"Soft Vegetation",
-        "FunFactTitle":"Jefferson's Great Clawed Beast",
+        "FunFactTitle":"President Jefferson's Great Beast",
         "FunFact":"Megalonyx jeffersoni, a giant relative of today's tree sloths, is named after former U.S. President Thomas Jefferson. He discovered a fossil of the \"great claw\" in Virginia and mistakenly believed it to be from a massive tiger-like cat."
     },
         "Bootherium Bombifrons":{
-        "Name":"Woodland muskox",
-                "NickName": "Woodland muskox",
+        "Name":"Woodland Muskox",
+                "NickName": "Woodland Muskox",
                 "AristAtt":"(Illustrated by Willem SV Merwe)",       
-        "ScientificName":"Bootherium bombifrons",
+        "ScientificName":"Bootherium Bombifrons",
         "IsDino":"No, muskoxen are mammals",
         "TimePeriod":"PleistoceneText",
         "TimePeriod2":"",
@@ -69,12 +69,12 @@
         "Habitat":"Forests, Grasslands and Caves",
         "Size":"",
         "Diet":"Tough Grasses and Soft Vegetation",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Great Horns of the Forest",
+        "FunFact":"Unlike their modern tundra muskox relatives, Bootherium lived in less cold, forested environments, including in North Carolina. Males had gigantic horns which met and fused in the middle, forming an intimidating, helmet-like structure on their heads."
     },
 
         "Mammoth Tusk":{
-        "Name":"Mammoth Teeth",
+        "Name":"Mammoth",
                 "NickName": "",
                 "AristAtt":"",       
         "ScientificName":"Mammuthus sp.",
@@ -91,26 +91,8 @@
         "FunFact":""
     },
 
-        "Cetacean Vertebrae":{
-        "Name":"Cetacean Vertebrae",
-                "NickName": "",
-                "AristAtt":"",       
-        "ScientificName":"",
-        "IsDino":"",
-        "TimePeriod":"",
-        "TimePeriod2":"",
-        "TimePeriodText":"",
-        "TimePeriodText2":"",
-        "Location":"",
-        "Habitat":"",
-        "Size":"",
-        "Diet":"",
-        "FunFactTitle":"",
-        "FunFact":""
-    },
-
         "Horse Teeth":{
-        "Name":"Equus sp",
+        "Name":"Equus",
                 "NickName": "Horses",
                 "AristAtt":"",       
         "ScientificName":"Equus sp.",
@@ -127,46 +109,11 @@
         "FunFact":""
     },
 
-        "Deer Horn":{
-        "Name":"Deer",
-                "NickName": "",
-                "AristAtt":"",       
-        "ScientificName":"Cervidae",
-        "IsDino":"No, deer are mammals.",
-        "TimePeriod":"",
-        "TimePeriod2":"",
-        "TimePeriodText":"",
-        "TimePeriodText2":"",
-        "Location":"Miocene-Present of North America, South America, Europe, and Asia",
-        "Habitat":"Forests, Grasslands, and Tundra",
-        "Size":"",
-        "Diet":"Tough Grasses and Soft Vegetation",
-        "FunFactTitle":"",
-        "FunFact":""
-    },
-
-        "Homo Sapien":{
-        "Name":"Homo Sapien",
-                "NickName": "",
-                "AristAtt":"",       
-        "ScientificName":"",
-        "IsDino":"",
-        "TimePeriod":"",
-        "TimePeriod2":"",
-        "TimePeriodText":"",
-        "TimePeriodText2":"",
-        "Location":"",
-        "Habitat":"",
-        "Size":"",
-        "Diet":"",
-        "FunFactTitle":"",
-        "FunFact":""
-    },
                 "Otodus Megalodon":{
         "Name":"Megalodon",
                 "NickName": "The Megatooth Shark",
                 "AristAtt":"(Illustrated by Hugo Salais)",       
-        "ScientificName":"Otodus megalodon",
+        "ScientificName":"Otodus Megalodon",
         "IsDino":"No, sharks are fish.",
         "TimePeriod":"MioceneText",
         "TimePeriod2":"Pliocene",
@@ -198,10 +145,10 @@
         "FunFact":""
     },
         "Xiphiacetus":{
-        "Name":"Xiphiacetus",
-                "NickName": "Long-nosed Dolphin",
+        "Name":"Long-Nosed Dolphin",
+                "NickName": "Long-Nosed Dolphin",
                 "AristAtt":"(Illustrated by Knuppe)",       
-        "ScientificName":"Eurhinodelphis longirostris",
+        "ScientificName":"Eurhinodelphis Longirostris",
         "IsDino":"No, dolphins are mammals.",
         "TimePeriod":"MioceneText",
         "TimePeriod2":"",
@@ -218,7 +165,7 @@
         "Name":"Prionochelys",
                 "NickName": "",
                 "AristAtt":"(Illustrated by David Williams)",       
-        "ScientificName":"Prionochelys mutatina",
+        "ScientificName":"Prionochelys Mutatina",
         "IsDino":"No, turtles are not dinosaurs.",
         "TimePeriod":"CretaceousText",
         "TimePeriod2":"",
@@ -235,7 +182,7 @@
         "Name":"Plesiosaur",
                 "NickName": "",
                 "AristAtt":"(Illustrated by 2 JS Paleoart)",       
-        "ScientificName":"Styxosaurus snowii",
+        "ScientificName":"Styxosaurus Snowii",
         "IsDino":"No, plesiosaurs are marine reptiles.",
         "TimePeriod":"CretaceousText",
         "TimePeriod2":"",
@@ -279,11 +226,11 @@
         "Habitat":"Forest and Swamps",
         "Size":"",
         "Diet":"Tough and Soft Vegetation",
-        "FunFactTitle":"",
+        "FunFactTitle":"Preserving the Impossible",
         "FunFact":"Hypacrosaurus is a crested duck-billed dinosaur. An amazing hatchling specimen from Montana is so well preserved that paleontologists discovered fossilized cellular structures from cartilage inside the bones of the fossil."
     },
             "Grallator Tracks":{
-        "Name":"Grallator dinosaur track",
+        "Name":"Grallator (Dinosaur Track)",
                 "NickName": "Theropod Footprints",
                 "AristAtt":"",       
         "ScientificName":"Grallator",
@@ -351,10 +298,10 @@
         "FunFact":""
     },
             "Helicoprion":{
-        "Name":"Helicoprion",
-                "NickName": "",
+        "Name":"Whorl Tooth Shark",
+                "NickName": "The Whorl Tooth Shark",
                 "AristAtt":"(Illustrated by Mark Witton)",       
-        "ScientificName":"Buzzsaw Shark",
+        "ScientificName":"Helicoprion",
         "IsDino":"No, sharks are fish.",
         "TimePeriod":"PermianText",
         "TimePeriod2":"",
@@ -364,7 +311,7 @@
         "Habitat":"Open Ocean",
         "Size":"",
         "Diet":"Cephalopods and Fish",
-        "FunFactTitle":"",
+        "FunFactTitle":"The Buzzsaw Shark",
         "FunFact":"Helicoprion is an shark-like cartilaginous fish most closely related to modern chimaeras. It is known for it's strange, spirally arranged tooth whorl which was likely a specialized device for hunting ammonites."
     },
             "Crinoids":{
@@ -415,11 +362,11 @@
         "Habitat":"The lived in rivers",
         "Size":"",
         "Diet":"Their diet consisted of smaller fish",
-        "FunFactTitle":"",
+        "FunFactTitle":"First Fish on Land",
         "FunFact":"Tiktaalik is one of the earliest known fish with clear tetrapod, or four legged, skeletal adaptations. Paleontologists predicted what age and location of rocks should have such a fossil, and then later found it in the field!"
     },
             "Giant Sea Scorpion":{
-        "Name":"Giant Sea Scorpion",
+        "Name":"Mixopterus",
                 "NickName": "Kiaer's Mix-Finned Sea Scorpion",
                 "AristAtt":"(Illustrated by Yang Dinghua)",       
         "ScientificName":"Mixopterus kiaeri",
@@ -542,7 +489,7 @@
         "Name":"Aspidella",
                 "NickName": "Aspidella",
                 "AristAtt":"",       
-        "ScientificName":"Aspidella terranovica",
+        "ScientificName":"Aspidella Terranovica",
         "IsDino":"No, these are way older than dinosaurs!",
         "TimePeriod":"Pre-CambianText",
         "TimePeriod2":"",
@@ -569,7 +516,7 @@
         "Habitat":"Deep Ocean",
         "Size":"",
         "Diet":"Jellyfish and Soft Bodied Animals",
-        "FunFactTitle":"",
+        "FunFactTitle":"A Nightmare of a Fossil",
         "FunFact":"This creature is so bizarre that early paleontologists weren't even sure which was was up, or which end was the head! Modern studies suggest that Hallucigenia's closest living relatives are velvet worms and waterbears."
     },
                 "Bothriolepis":{
@@ -590,10 +537,10 @@
         "FunFact":""
     },
                     "Dromicosuchus":{
-        "Name":"Dromicosuchus grallator",
+        "Name":"Dromicosuchus",
                 "NickName": "Stilt-Legged Crocodile",
                 "AristAtt":"(Illustrated by Black Heron Works)",       
-        "ScientificName":"Dromicosuchus grallator",
+        "ScientificName":"Dromicosuchus Grallator",
         "IsDino":"No, crocodilians aren't dinosaurs..",
         "TimePeriod":"TriassicText",
         "TimePeriod2":"",
@@ -639,6 +586,148 @@
         "Diet":"Unknown",
         "FunFactTitle":"The Coahoma Eagle Lizard",
         "FunFact":""
+    },
+
+                            "Swatpunia":{
+        "Name":"Swatpunia",
+                "NickName": "Germ's Seapoint",
+                "AristAtt":"",       
+        "ScientificName":"Swartpuntia germsi",
+        "IsDino":"No, Swartpuntia may not even be animals.",
+        "TimePeriod":"Pre-CambianText",
+        "TimePeriod2":"",
+        "TimePeriodText":"Pre-Cambrain: Ediacaran",
+        "TimePeriodText2":"",
+        "Location":"of North America and Africa",
+        "Habitat":"Shallow Ocean",
+        "Size":"",
+        "Diet":"Unknown",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+
+                                "Xenacanthus":{
+        "Name":"Xenacanthus",
+                "NickName": "Spined River-Shark",
+                "AristAtt":"",       
+        "ScientificName":"Xenacanthus",
+        "IsDino":"No, sharks are fish.",
+        "TimePeriod":"DevonianText",
+        "TimePeriod2":"TriassicText",
+        "TimePeriodText":"Devonian",
+        "TimePeriodText2":"- Triassic",
+        "Location":"North America, Europe and Asia during the",
+        "Habitat":"Shallow Ocean",
+        "Size":"",
+        "Diet":"Unknown",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+
+                                    "Casteroides":{
+        "Name":"Casteroides",
+                "NickName": "The Giant Ice Age Beaver",
+                "AristAtt":"",       
+        "ScientificName":"Castoroides ohioensis",
+        "IsDino":"No, mammals are not dinosaurs.",
+        "TimePeriod":"PleistoceneText",
+        "TimePeriod2":"",
+        "TimePeriodText":"Pleistocene",
+        "TimePeriodText2":"",
+        "Location":"North America during the",
+        "Habitat":"Swamps, Rivers, Lakes, and Floodplains",
+        "Size":"",
+        "Diet":"Aquatic Vegetation",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+
+                                        "Swartpuntia":{
+        "Name":"Swartpuntia",
+                "NickName": "The Giant Ice Age Beaver",
+                "AristAtt":"(art by Alphynix)",       
+        "ScientificName":"Germ's Seapoint",
+        "IsDino":"No, Swartpuntia may not even be animals.",
+        "TimePeriod":"Pre-CambianText",
+        "TimePeriod2":"",
+        "TimePeriodText":"The Permian:Ediacaran",
+        "TimePeriodText2":"",
+        "Location":"North America and Africa during the",
+        "Habitat":"Shallow Ocean.",
+        "Size":"",
+        "Diet":"Unknown",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+                                            "Boreogomphodon":{
+        "Name":"Boreogomphodon",
+                "NickName": "Jefferson's North American Wedgetooth",
+                "AristAtt":"",       
+        "ScientificName":"Boreogomphodon jeffersoni",
+        "IsDino":"No, mammals are not dinosaurs.",
+        "TimePeriod":"TriassicText",
+        "TimePeriod2":"",
+        "TimePeriodText":"Late Triassic.",
+        "TimePeriodText2":"",
+        "Location":"North America during the",
+        "Habitat":"Forests, Rivers, Swamps.",
+        "Size":"",
+        "Diet":"Tough Vegetation",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+
+                                                "Pteridinium":{
+        "Name":"Pteridinium ",
+                "NickName": "Ancient Mudfern",
+                "AristAtt":"",       
+        "ScientificName":"Pteridinium carolinaensis",
+        "IsDino":"No, Pteridinium may not even be animals.",
+        "TimePeriod":"Pre-CambianText",
+        "TimePeriod2":"",
+        "TimePeriodText":"Pre-Cambrian: Ediacaran",
+        "TimePeriodText2":"",
+        "Location":"North America and Africa during the",
+        "Habitat":"Deep Ocean and Shallow Ocean",
+        "Size":"",
+        "Diet":"Unknown",
+        "FunFactTitle":"The Mysterious Mud Fern",
+        "FunFact":""
+    },
+                                                "Postosuchus":{
+        "Name":"Postosuchus",
+                "NickName": "Post Crocodile",
+                "AristAtt":"",       
+        "ScientificName":"Postosuchus",
+        "IsDino":"No, but closely related.",
+        "TimePeriod":"TriassicText",
+        "TimePeriod2":"",
+        "TimePeriodText":"Late Triassic.",
+        "TimePeriodText2":"",
+        "Location":"North America during the",
+        "Habitat":"Rivers, Floodplains, Swamps, Forests.",
+        "Size":"",
+        "Diet":"Reptiles, Dinosaurs, Mammal-like reptiles.",
+        "FunFactTitle":"",
+        "FunFact":""
+    },
+                                                    "":{
+        "Name":"",
+                "NickName": "",
+                "AristAtt":"",       
+        "ScientificName":"",
+        "IsDino":"",
+        "TimePeriod":"",
+        "TimePeriod2":"",
+        "TimePeriodText":"",
+        "TimePeriodText2":"",
+        "Location":"",
+        "Habitat":"",
+        "Size":"",
+        "Diet":"",
+        "FunFactTitle":"",
+        "FunFact":""
     }
+
     
 }
