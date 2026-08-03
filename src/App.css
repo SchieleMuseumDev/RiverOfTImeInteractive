@@ -99,6 +99,9 @@ html::-webkit-scrollbar {
   align-items: center;
   align-content: center;
 }
+.navButtonText{
+  color: #111;
+}
     .hideButton{
       display: none;
     }
