@@ -64,43 +64,36 @@ html::-webkit-scrollbar {
 }
 
 .toolbar-Button {
-  background: light-dark(#ddd, #f9eddc);
-  color: light-dark(rgb(0, 0, 0), white);
   border: none;
-  border-radius: 50%;
-  font-family: system-ui;
-  font-size: 14px;
-  -webkit-tap-highlight-color: transparent;
-      width: 7.5rem;
-      height: 7.5rem;
-          z-index: 1000;
-          margin: 0 0 0 -5%;
+  width: 0px;
+  height: 0px;
+          margin: 0 0 0 -4%;
+              view-transition-name: none;
 
-  &:has(svg:only-child) {
-    padding: 0;
-    aspect-ratio: 1/1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  &[data-hovered] {
-    background: light-dark(#cdcdcd, #3a3a3a);
-  }
-
-  &[data-pressed] {
-    background: light-dark(#bbb, #444);
-  }
 }
 .navButtonDiv{
   margin: 25% 0 0 10%;
-  transform: rotate(-45deg);
   display: inline-block;
   align-items: center;
   align-content: center;
+                view-transition-name: none;
 }
 .navButtonText{
-  color: #111;
+  color: #f8e9df;
+  position: relative;
+  z-index: 99999;
+  rotate: -20deg;
+  top: .25rem;
+  left: 1.5rem;
+  font-size: 1.75rem;
+    display: flex;
+      height: 1.75rem;          /* Scales perfectly with the text font-size */
+
+}
+.rift{
+  width: 40vw;
+position: absolute; top: 0; left: 0;
+z-index: 1;
 }
     .hideButton{
       display: none;
@@ -108,7 +101,12 @@ html::-webkit-scrollbar {
 .navSvg{
   height: 2rem;
   padding: 0;
-  margin: -1rem;
+display: inline-block; /* Allows precise control of height/width */
+  height: 1em;          /* Scales perfectly with the text font-size */
+  width: auto;          /* Maintains aspect ratio */
+  vertical-align: middle; /* Centers the icon perfectly with the text height */
+  margin: 0 4px;        /* Adds a tiny bit of breathing room on the sides */
+    fill: #f8e9df;
 }
 .toolbar-Slider {
   .react-aria-SliderTrack {

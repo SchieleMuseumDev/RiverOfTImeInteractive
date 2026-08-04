@@ -81,8 +81,50 @@ if(element){
             });
           }}>
           <div className='navButtonDiv'>
-            <h2 className='navButtonText'>Home</h2>
-            <img className='navSvg' src='.\photos\claudita-home-icon.svg'></img>
+            <h2 className='navButtonText'>Home <svg className="navSvg" version="1.0" viewBox="7.19731 8.79777 35.6995 32.299299999999995" id="svg2" xmlns="http://www.w3.org/2000/svg" width="35.6995" height="32.299299999999995">
+  
+  <g id="layer1">
+    <path d="m25 9.0937l-17.719 16.281h5.563v15.531h24.312v-15.531h5.563l-17.719-16.281z" id="rect2879"/>
+  </g>
+  <metadata>
+    
+      
+        image/svg+xml
+        
+        
+        
+          
+            Openclipart
+          
+        
+        home icon
+        2008-05-26T21:12:21
+        icon go home
+        https://openclipart.org/detail/17103/home-icon-by-claudita
+        
+          
+            claudita
+          
+        
+        
+          
+            home
+            home button
+            home icon
+            index icon
+          
+        
+      
+      
+        
+        
+        
+      
+    
+  </metadata>
+</svg></h2>
+
+                        <img className='rift' src='.\photos\IpadRift__AQUA.png'></img>
           </div>
         </Button>
         <div className="photo-info">
