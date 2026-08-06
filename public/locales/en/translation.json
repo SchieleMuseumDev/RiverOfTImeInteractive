@@ -78,7 +78,7 @@
                 "NickName": "",
                 "AristAtt":"",       
         "ScientificName":"Mammuthus sp.",
-        "IsDino":"No, mammoths are mammals",
+        "IsDino":"No, mammoths are mammals.",
         "TimePeriod":"MioceneText",
         "TimePeriod2":"PleistoceneText",
         "TimePeriodText":"late Miocene",
@@ -87,8 +87,8 @@
         "Habitat":"Grasslands, Tundra, Forests",
         "Size":"",
         "Diet":"Soft Vegetation",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"The American Elephants",
+        "FunFact":"Mammoths represent some of the largest mammals to inhabit North America, and thrived in grasslands. Wooly mammoths were frigid, cold-weather specialists covered in fur, while Colombian mammoths were mostly hairless but even larger."
     },
 
         "Horse Teeth":{
@@ -105,8 +105,8 @@
         "Habitat":"Grasslands and Deserts",
         "Size":"",
         "Diet":"Tough Grasses",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"When You Hear Hoofbeats",
+        "FunFact":"Horses originally evolved in North America. The first horses were small, three-toed forest dwellers, but eventually evolved into larger, single-toed plains animals. Their tall, evergrowing teeth are commonly found Pleistocene fossils. "
     },
 
                 "Otodus Megalodon":{
@@ -123,8 +123,8 @@
         "Habitat":"Warm, Shallow Ocean",
         "Size":"",
         "Diet":"Whales, Dolphins, Seals, Sea Turtles, and Large Fish",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Bigger than Jaws",
+        "FunFact":"Whale fossils from the time of Otodus commonly have deep bite marks from attacks by this shark. While frequently depicted as just a giant great White Shark, preserved vertebral columns suggest they were longer bodied, like living lemon sharks and may have reached lengths over 70 feet!"
     },
 
         "Mosasaur":{
@@ -141,8 +141,8 @@
         "Habitat":"Warm, Shallow Ocean",
         "Size":"",
         "Diet":"Small and Large Fish and Ammonites",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"River Raider",
+        "FunFact":"Considered a small mosasaur at a length of 13 feet, Clidastes was still an adept underwater predator. It inhabited the salt waters of the Western Interior Seaway and Atlantic ocean, but still occasoinally visited freshwater estuaries and rivers to hunt and drink."
     },
         "Xiphiacetus":{
         "Name":"Long-Nosed Dolphin",
@@ -158,8 +158,8 @@
         "Habitat":"Warm, Shallow Ocean",
         "Size":"",
         "Diet":"Small Fish and Invertebrates",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"A Swashbuckling Cetacean",
+        "FunFact":"Xiphiacetus belongs to an extinct group of dolphins with long, swordfish-like beaks. These long-nosed dolphins are common fossils in Miocene rocks along the East Coast and Mediterranean, but the purpose of their impressive beak is still a mystery."
     },
             "Prinonchelys":{
         "Name":"Prionochelys",
@@ -180,7 +180,7 @@
     },
             "Plesiosaur":{
         "Name":"Plesiosaur",
-                "NickName": "",
+                "NickName": "Underworld River Lizard",
                 "AristAtt":"(Illustrated by 2 JS Paleoart)",       
         "ScientificName":"Styxosaurus Snowii",
         "IsDino":"No, plesiosaurs are marine reptiles.",
@@ -192,8 +192,8 @@
         "Habitat":"Warm, Shallow Ocean",
         "Size":"",
         "Diet":"Fish and Cephalopods",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Swallowing Stones",
+        "FunFact":"These long necked, nearly 40 foot marine reptiles inhabited shallower waters close to shore. Many fossils contain swallowed, rounded river pebbles called gastroliths. These were likely ingested to help break down the bones and shells of their prey."
     },
             "Ammonite":{
         "Name":"Ammonite",
@@ -243,8 +243,8 @@
         "Habitat":"Any Terrestrial Habitat",
         "Size":"",
         "Diet":"Footprints don't eat!",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Watch Your Step",
+        "FunFact":"Grallator isn't your average dinosaur fossil. It's a special type of fossil called a trace fossil. Rather than being the bones of a specific dinosaur, Grallator is specifically the fossilized footprints of smaller, theropod dinosaurs who walk on three toes."
     },
             "reptile / amphibian trackway":{
         "Name":"reptile / amphibian trackway",
@@ -277,8 +277,8 @@
         "Habitat":"Shallow Ocean",
         "Size":"",
         "Diet":"Planktons",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"An Unselfish Shellfish",
+        "FunFact":"These marine oysters frequently helped form shell-reefs in shallow Cretaceous seas across the Atlantic and Southeast coasts. These reef formed important habitats for other oceangoing creatures such as prehistoric sharks, marine reptiles and other invertebrates."
     },
             "Plant Fossils":{
         "Name":"Plant Fossils",
@@ -328,8 +328,8 @@
         "Habitat":"Shallow Ocean",
         "Size":"",
         "Diet":"Planktons",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"The Jurassic Solar Sea Lily",
+        "FunFact":"Despite looking like plants, crinoids like Solanocrinites are actually animals closely related to starfish and sea urchins. Crinoids still exist today, but tend to live in deep sea environments or only move around at night."
     },
             "Diplocaulus":{
         "Name":"Diplocaulus",
