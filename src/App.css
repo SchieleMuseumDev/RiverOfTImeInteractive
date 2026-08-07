@@ -82,8 +82,7 @@ html::-webkit-scrollbar {
   color: #f8e9df;
   position: relative;
   z-index: 99999;
-  rotate: -20deg;
-  top: .25rem;
+  rotate: -15deg;
   left: 1.5rem;
   font-size: 1.75rem;
     display: flex;
