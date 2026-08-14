@@ -263,7 +263,7 @@ if(element){
 
                           <div className="quickFacts">
           <h1 className={`${t(photo.specimenName+".TimePeriod")} factTitle`}>    {t(photo.specimenName+".ScientificName")}</h1>
-          <h2 className='factInfo'>{t(photo.specimenName+".NickName")}</h2>
+          <h2 className='factSub'>{t(photo.specimenName+".NickName")}</h2>
 
           <div className='factSection'>
             <img className='factImg imgToWhite' src={photo.isThisADinoPic}></img>

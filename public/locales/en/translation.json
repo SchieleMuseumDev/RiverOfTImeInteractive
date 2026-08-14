@@ -163,7 +163,7 @@
     },
             "Prinonchelys":{
         "Name":"Prionochelys",
-                "NickName": "",
+                "NickName": "Dawn Saw-shelled Turtle",
                 "AristAtt":"(Illustrated by David Williams)",       
         "ScientificName":"Prionochelys Mutatina",
         "IsDino":"No, turtles are not dinosaurs.",
@@ -175,8 +175,8 @@
         "Habitat":"Warm, Shallow Ocean",
         "Size":"",
         "Diet":"Hard shelled invertebrates",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"A Combative Edge",
+        "FunFact":"Prionochelys was an early sea turtle that lived in the waters along coastal Appalachia and Laramidia. Prominent spikes and ridges on the edges of this turtle's shell may have helped protect them from sharks, large predatory fish, mosasaurs and pliosaurs that they lived alongside."
     },
             "Plesiosaur":{
         "Name":"Plesiosaur",
@@ -345,8 +345,8 @@
         "Habitat":"Rivers and Ponds",
         "Size":"",
         "Diet":"Fish and small amphibians",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Predator and Prey",
+        "FunFact":"The purpose of the strange boomerang shaped parts of this early amphibian's head isn't certain, but they may have allowed Diplocaulus to rise rapidly in the water to pursue fish and insects. These animals were sometimes prey for the sail-backed land predator Dimetrodon."
     },
             "Tiktaalik":{
         "Name":"Tiktaalik",
@@ -379,8 +379,8 @@
         "Habitat":"Shallow Ocean, Estuaries and Rivers",
         "Size":"",
         "Diet":"Fish and Invertebrates",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"An Arachnid Adjacent Attacker",
+        "FunFact":" \"Sea scorpions\" like Mixopterus lived in aquatic habitats during the Paleozoic, and created the oldest known land footprints. Computer generated models suggest that Mixopterus trapped prey with it's larger arms, before impaling them with the smaller ones."
     },
             "Anomalocaris":{
         "Name":"Anomalocaris",
@@ -430,8 +430,8 @@
         "Habitat":"Shallow Coastal Ocean",
         "Size":"",
         "Diet":"Plants, Algae, and Decomposing Animals",
-        "FunFactTitle":"The Monstrous Spiny-Shield trilobite",
-        "FunFact":""
+        "FunFactTitle":"Even Giants Aren't Safe",
+        "FunFact":"Terataspis is one of the largest trilobites ever found. It's spiky armor was probably for defense against early sharks and predatory fish. Despite it's size and armor, it may also have been prey for Jaekelopterus, the 9 foot sea scorpion that is the largest known arthropod ever."
     },
 
     "Eldredgeops":{
@@ -448,8 +448,8 @@
         "Habitat":"Shallow Ocean",
         "Size":"",
         "Diet":"Plants, Algae, and Decomposing Animals",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"A Sight For Sore Eyes",
+        "FunFact":"Triobites inhabited Earth's oceans from the beginning of the Cambrian until the end of the Permian. Eldridgeops had a spotted exoskeleton, and more complex eyes that gave it better vision than many other trilobites. Some collectors still call it Phacops, which is a similar, European species."
     },
             "Pikaia gracilens":{
         "Name":"Pikaia gracilens",
@@ -470,7 +470,7 @@
     },
             "Wiwaxia ":{
         "Name":"Wiwaxia",
-                "NickName": "",
+                "NickName": "Wiwaxy Mollusk",
                 "AristAtt":"(Illustrated by Ntv Tiko)",       
         "ScientificName":"Wiwaxia sp.",
         "IsDino":"No, these are way older than dinosaurs!",
@@ -482,12 +482,12 @@
         "Habitat":"Shallow and Deep oceans",
         "Size":"",
         "Diet":"Unknown",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Mollusk's Maiden Voyage",
+        "FunFact":"This soft-bodied, but hard shell-plated animal is believed to be among the earliest known mollusks, the group containing snails, squids, octopuses, and clams. Despite looking so different, it possesses similar mouthparts and shell growth patterns to these animals."
     },
             "Aspidella":{
         "Name":"Aspidella",
-                "NickName": "Aspidella",
+                "NickName": "Mystery Shield",
                 "AristAtt":"",       
         "ScientificName":"Aspidella Terranovica",
         "IsDino":"No, these are way older than dinosaurs!",
@@ -499,8 +499,8 @@
         "Habitat":"Shallow Ocean",
         "Size":"",
         "Diet":"Unknown",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"What Even Is Aspidella?",
+        "FunFact":"Paleontologists still aren't exactly what Aspidella is. These small, disk shaped fossils may be the bodies of an organism, bacterial colonies or just the part of a larger animal that connects to the ground. The Ediacaran life forms, some found in North Carolina, are still a puzzling and exciting mystery! "
     },
             "Hallucigenia":{
         "Name":"Hallucigenia",
@@ -533,8 +533,8 @@
         "Habitat":"Rivers and Lakes",
         "Size":"",
         "Diet":"Plants, Algae, and Decomposing Animals",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Small But Tough",
+        "FunFact":"Bothriolepis is a type of armored fish called a placoderm, which were some of the earliest jawed fish. A small relative of the mighty predator Dunkleosteus, Bothriolepis was instead a bottom feeding animal which sucked up food from the seafloor and relied on strong armor plates for safety."
     },
                     "Dromicosuchus":{
         "Name":"Dromicosuchus",
@@ -550,8 +550,8 @@
         "Habitat":"Swamps and Floodplains",
         "Size":"",
         "Diet":"Small Reptiles, Insects, and Fish",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"When Crocs Sprinted",
+        "FunFact":"This small, crocodile relative had long limbs and a light body built for speed. Only found in North Carolina, Dromicosuchus was clearly a catlike predator. The first specimen was bitten by and found undeneath a Postosuchus, meaning that the speedy croc wasn't at the top of the food chain."
     },
                     "Gorgetosuchus":{
         "Name":"Gorgetosuchus",
@@ -568,13 +568,13 @@
         "Size":"",
         "Diet":"Unknown",
         "FunFactTitle":"The Armored Beast of the East",
-        "FunFact":""
+        "FunFact":"Found only in North Carolina, Gorgetosuchus belongs to a group of armored, omnivorous reptiles closely related to dinosaurs and crocodiles. Named by Appalachian State University professor Andy Heckert, a life size statue of this animal can be visited on App State's campus."
     },
                         "Coahomasuchus":{
         "Name":"Coahomasuchus",
-                "NickName": "Coahomasuchus chathamensis",
+                "NickName": "Chatham County's Coahoma Crocodile",
                 "AristAtt":"",       
-        "ScientificName":"Coahomasuchus",
+        "ScientificName":"Coahomasuchus chathamensis",
         "IsDino":"No, but closely related.",
         "TimePeriod":"TriassicText",
         "TimePeriod2":"",
@@ -584,12 +584,12 @@
         "Habitat":"Mountains, Rivers, Floodplains",
         "Size":"",
         "Diet":"Unknown",
-        "FunFactTitle":"The Coahoma Eagle Lizard",
-        "FunFact":""
+        "FunFactTitle":"Armor With Attitude",
+        "FunFact":"Unlike many other armored aetosaurs, Coahomasuchus' sharp teeth may have been primarily for eating meat. Different species of Coahomasuchus have been found first in Texas and more recently in North Carolina."
     },
 
-                            "Swatpunia":{
-        "Name":"Swatpunia",
+                            "Swartpuntia":{
+        "Name":"Swartpuntia",
                 "NickName": "Germ's Seapoint",
                 "AristAtt":"",       
         "ScientificName":"Swartpuntia germsi",
@@ -602,8 +602,8 @@
         "Habitat":"Shallow Ocean",
         "Size":"",
         "Diet":"Unknown",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"An Enigmatic... Animal?",
+        "FunFact":"Swartpuntia is part of the mysterious \"Ediacaran fauna,\" a group of precambrian organisms that are among the earliest \"complex\" life known. North Carolina is home to rare deposits of Ediacaran fossils. It is unclear whether fossils like Swartpuntia are animals, plants, or something else."
     },
 
                                 "Xenacanthus":{
@@ -620,8 +620,8 @@
         "Habitat":"Shallow Ocean",
         "Size":"",
         "Diet":"Unknown",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Sharks With Spikes!",
+        "FunFact":"Xenacanthus lived only in freshwater environments. They possessed a single, sometimes barbed spine that pointed backwards from their head as a defense against larger predators. Their teeth were all split into two separate points, shaped like the letter \"V.\""
     },
 
                                     "Casteroides":{
@@ -638,26 +638,8 @@
         "Habitat":"Swamps, Rivers, Lakes, and Floodplains",
         "Size":"",
         "Diet":"Aquatic Vegetation",
-        "FunFactTitle":"",
-        "FunFact":""
-    },
-
-                                        "Swartpuntia":{
-        "Name":"Swartpuntia",
-                "NickName": "The Giant Ice Age Beaver",
-                "AristAtt":"(art by Alphynix)",       
-        "ScientificName":"Germ's Seapoint",
-        "IsDino":"No, Swartpuntia may not even be animals.",
-        "TimePeriod":"Pre-CambianText",
-        "TimePeriod2":"",
-        "TimePeriodText":"The Permian:Ediacaran",
-        "TimePeriodText2":"",
-        "Location":"North America and Africa during the",
-        "Habitat":"Shallow Ocean.",
-        "Size":"",
-        "Diet":"Unknown",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"To Tree Or Not To Tree?",
+        "FunFact":"Despite looking similar to modern beavers and sharing the same Ice Age habitats, Castoroides probably didn't build dams or chew wood. Their diet consisted of soft, underwater plants, and they had a longer, thinner tail than their distant beaver cousins."
     },
                                             "Boreogomphodon":{
         "Name":"Boreogomphodon",
@@ -673,8 +655,8 @@
         "Habitat":"Forests, Rivers, Swamps.",
         "Size":"",
         "Diet":"Tough Vegetation",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"Chew On this",
+        "FunFact":"This mammal-like reptile is known from North Carolina and Virginia. They had more complex teeth than most other animals that shared their environment, making them excellent at chewing and processing tough foods."
     },
 
                                                 "Pteridinium":{
@@ -692,7 +674,7 @@
         "Size":"",
         "Diet":"Unknown",
         "FunFactTitle":"The Mysterious Mud Fern",
-        "FunFact":""
+        "FunFact":"Pteridinium is one of the strange Ediacaran organism fossils found in North Carolina. They had an unusual 3-way body symmetry with a canoe-like body. They incorporated mud and sand inside their bodies, and may have lived by absorbing nutrients directly from the water."
     },
                                                 "Postosuchus":{
         "Name":"Postosuchus",
@@ -708,8 +690,8 @@
         "Habitat":"Rivers, Floodplains, Swamps, Forests.",
         "Size":"",
         "Diet":"Reptiles, Dinosaurs, Mammal-like reptiles.",
-        "FunFactTitle":"",
-        "FunFact":""
+        "FunFactTitle":"The King Before Dinosaurs",
+        "FunFact":"Based on the shape of it's head and legs, Postosuchus was first thought to be an early T. rex relative. This archosaur is more closely related to crocodiles than dinosaurs, and would have been the undisputed apex predator of prehistoric North Carolina and Texas."
     },
                                                     "":{
         "Name":"",

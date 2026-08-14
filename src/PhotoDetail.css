@@ -56,6 +56,14 @@
       line-height: 3rem;
 
   }
+        .factSub{
+    padding: 1rem 0 0 0;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+    text-justify: auto;
+    margin: 0;
+      }
   .factTitle{
     font-style: italic;
   }
