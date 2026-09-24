@@ -50,7 +50,7 @@ let visiblePhotos = useMemo(() =>
 
         }}
         onDrop={(album, photoIds) => {
-          setLibrary(library.map(photo => photoIds.includes(photo.id) ? { ...photo, album } : photo));
+          setLibrary(library.map(photo => photoIds.includes(photo.id) ? { ...photo, album: [album] } : photo));
           setAlbum(album);
         }} />
       <div style={{flex: 1, minWidth: 0}} inert={sidebarVisible}>
