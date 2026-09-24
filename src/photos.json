@@ -508,12 +508,12 @@
 
 "isThisADinoPic": "photos/isThisADino.svg"
 },
-    "width": 175,
+"width": 150,
     "height": 100,
     "specimenName": "Gorgetosuchus",
               "Att":"",
-      "photoAlive": "Gorgetosuchus-a.png",
-         "locationSvg": "photos/GorgetosuchusLoc.jpg",
+      "photoAlive": "photos/GorgetosuchusLoc.jpg",
+         "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",

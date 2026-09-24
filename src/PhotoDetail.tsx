@@ -223,7 +223,7 @@ if(element){
                 </CarouselItem>
                 <CarouselItem className="item" index={1}>
                   <img src={photo.photoAlive} className='fade-all-sides'/>
-                  <h2 >{t("The")} {t(photo.specimenName+".Name")} {t("onDisplay")}</h2>
+                  <h2 className="caption" >{t("The")} {t(photo.specimenName+".Name")} {t("onDisplay")}</h2>
                 </CarouselItem>
           {/*      <CarouselItem className="item" index={2}>
                   <img src="photos\rockwall.jpg" />
