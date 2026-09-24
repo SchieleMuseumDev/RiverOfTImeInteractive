@@ -1,117 +1,128 @@
 body{
+-ms-overflow-style: none;
 background-color: black;
- margin: 0; 
-  scrollbar-width: none;
-
-  /* For Internet Explorer and Edge */
-  -ms-overflow-style: none;
+margin: 0;
+scrollbar-width: none;
+/* For Internet Explorer and Edge */
 }
 body::-webkit-scrollbar{
   display: none;
-}
+ }
 .app {
-  position: relative;
-  display: flex;
-  height: min(99.8vh);
-  width: 99.9%;
-  margin: 0;
-  padding: 0;
-  color-scheme: light dark;
-  font: 1rem system-ui;
-  color: light-dark(black, white);
+  --scale: 1;
   background: light-dark(white, #111);
   border: 1px solid light-dark(#eee, #222);
   border-radius: 10px;
-  overflow: clip;
-  --scale: 1;
+  color: light-dark(black, white);
+  color-scheme: light dark;
   color-scheme: dark;
+  display: flex;
+  font: 1rem system-ui;
+  height: min(99.8vh);
+  margin: 0;
+  overflow: clip;
+  padding: 0;
+  position: relative;
+  width: 99.9%;
 
   @media not ((hover: hover) and (pointer: fine)) {
     --scale: 1.25;
-  }
-}
+   }
+ }
 html::-webkit-scrollbar {
   display: none;
-}
+ }
 .layout {
-  height: 100%;
   display: flex;
   flex-direction: column;
-}
+  height: 100%;
+ }
 
 .toolbar {
-  height: 40px;
-  padding: 4px 16px;
-  display: flex;
   align-items: center;
+  background: light-dark(#fdfdfd, rgba(255, 222, 222, 0));
+  display: flex;
   flex-shrink: 0;
   gap: 16px;
-  /*border-bottom: 1px solid light-dark(#eee, #222);*/
-  background: light-dark(#fdfdfd, rgba(255, 222, 222, 0));
+  height: 40px;
+  padding: 4px 16px;
   zoom: var(--scale);
 
   @media (width >= 500px) {
     #toggle-sidebar {
       display: none;
-    } 
-  }
+     }
+   }
 
   @media (width < 500px) {
     .toolbar-Slider {
       display: none;
-    }
-  }
-}
+     }
+   }
+
+  /*border-bottom: 1px solid light-dark(#eee, #222);*/
+ }
 
 .toolbar-Button {
   border: none;
-  width: 0px;
   height: 0px;
-          margin: 0 0 0 -4%;
-              view-transition-name: none;
-
-}
+  margin: 0 0 0 -4%;
+  view-transition-name: none;
+  width: 0px;
+ }
 .navButtonDiv{
-  margin: 25% 0 0 10%;
-  display: inline-block;
-  align-items: center;
   align-content: center;
-                view-transition-name: none;
-}
+  align-items: center;
+  display: inline-block;
+  margin: 25% 0 0 10%;
+  view-transition-name: none;
+ }
 .navButtonText{
   color: #f8e9df;
-  position: relative;
-  z-index: 99999;
-  rotate: -15deg;
-  left: 1.5rem;
+  display: flex;
   font-size: 1.75rem;
-    display: flex;
-      height: 1.75rem;          /* Scales perfectly with the text font-size */
+  height: 1.75rem;
+  left: 1.5rem;
+  position: relative;
+  rotate: -15deg;
+  z-index: 99999;
 
-}
+  /* Scales perfectly with the text font-size */
+ }
 .rift{
+  left: 0;
+  position: absolute;
+  top: 0;
   width: 40vw;
-position: absolute; top: 0; left: 0;
-z-index: 1;
-}
+  z-index: 1;
+ }
     .hideButton{
       display: none;
-    }
+     }
 .navSvg{
+  display: inline-block;
+  fill: #f8e9df;
   height: 2rem;
+  height: 1em;
+  margin: 0 4px;
   padding: 0;
-display: inline-block; /* Allows precise control of height/width */
-  height: 1em;          /* Scales perfectly with the text font-size */
-  width: auto;          /* Maintains aspect ratio */
-  vertical-align: middle; /* Centers the icon perfectly with the text height */
-  margin: 0 4px;        /* Adds a tiny bit of breathing room on the sides */
-    fill: #f8e9df;
-}
+  vertical-align: middle;
+  width: auto;
+
+ /* Allows precise control of height/width */
+  /* Scales perfectly with the text font-size */
+  /* Maintains aspect ratio */
+  /* Centers the icon perfectly with the text height */
+  /* Adds a tiny bit of breathing room on the sides */
+ }
 .toolbar-Slider {
   .react-aria-SliderTrack {
-    width: 100px;
     height: 16px;
+    width: 100px;
+
     &::before {
+      background: light-dark(#ccc, #666);
+      border-radius: 99px;
       content: '';
       display: block;
       height: 2px;
@@ -119,44 +130,42 @@ display: inline-block; /* Allows precise control of height/width */
       top: 50%;
       translate: 0 -1px;
       width: 100%;
-      background: light-dark(#ccc, #666);
-      border-radius: 99px;
-    }
-
-  }
+     }
+   }
 
   .react-aria-SliderThumb {
+    background: light-dark(white, black);
+    border: 2px solid light-dark(#666, #aaa);
+    border-radius: 9999px;
+    height: 14px;
     top: 50%;
     width: 14px;
-    height: 14px;
-    border-radius: 9999px;
-    border: 2px solid light-dark(#666, #aaa);
-    background: light-dark(white, black);
+
     &[data-dragging] {
       border-color: light-dark(#444, #ccc);
-    }
+     }
 
     &[data-focus-visible] {
       outline: 2px solid light-dark(black, white);
       outline-offset: 2px;
-    }
-  }
-}
+     }
+   }
+ }
 
 .toolbar-SearchField {
   margin-inline-start: auto;
 
   .react-aria-Input {
-    padding: 4px 4px 4px 12px;
-    border-radius: 32px;
-    border: 2px solid light-dark(#ddd, #333);
     background: light-dark(white, black);
+    border: 2px solid light-dark(#ddd, #333);
+    border-radius: 32px;
     font-family: system-ui;
     font-size: 14px;
     outline: none;
+    padding: 4px 4px 4px 12px;
 
     &:focus {
       border-color: light-dark(black, white);
-    }
-  }
-}
+     }
+   }
+ }

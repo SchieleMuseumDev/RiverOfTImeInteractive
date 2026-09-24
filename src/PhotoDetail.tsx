@@ -213,12 +213,12 @@ if(element){
 
               <div className='picSection'>
 
-                                <div className='fade-rightNew'></div>
+                                <div className={`${photo.fadeAmount}`}></div>
 
 
               <CarouselScroller className="scroller">
                 <CarouselItem className="item" index={0}>
-                  <img className='first fade-all-sides heightRestrict' src={src}  alt={photo.id || ''} style={{ '--width': photo.width, '--height': photo.height } as any} />
+                  <img className={`first heightRestrict fade-all-sides`} src={src}  alt={photo.id || ''} style={{ '--width': photo.width, '--height': photo.height } as any} />
                   <h2 className="caption">{t("ALivingReconstructionOfThe")}  {t(photo.specimenName+".Name")}</h2><h2 className='artistCredit'>{t(photo.specimenName+".AristAtt")}</h2>
                 </CarouselItem>
                 <CarouselItem className="item" index={1}>
@@ -266,14 +266,6 @@ if(element){
           <h2 className='factSub'>{t(photo.specimenName+".NickName")}</h2>
 
           <div className='factSection'>
-            <img className='factImg imgToWhite' src={photo.isThisADinoPic}></img>
-            <div className='factInfo'>
-              <p>{t(photo.specimenName+".IsDino")}</p>
-              
-              </div>
-          </div>
-
-          <div className='factSection'>
             <img className='factImg imgToWhite locationImg' src={photo.locationSvg}></img>
             <div className='factInfo'>
              <p> {t(photo.specimenName+".Location")} <span className={`${t(photo.specimenName+".TimePeriod")}`}>{t(photo.specimenName+".TimePeriodText")}</span> <span className={`${t(photo.specimenName+".TimePeriod2")}`}>{t(photo.specimenName+".TimePeriodText2")}</span></p>
@@ -298,6 +290,15 @@ if(element){
             <img className='factImg imgToWhite' src={photo.dietSvg}></img>
             <div className='factInfo'>
              <p> {t(photo.specimenName+".Diet")}</p>
+              </div>
+          </div>
+
+          
+          <div className='factSection'>
+            <img className='factImg imgToWhite' src={photo.isThisADinoPic}></img>
+            <div className='factInfo'>
+              <p>{t(photo.specimenName+".IsDino")}</p>
+              
               </div>
           </div>
 

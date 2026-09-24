@@ -1,6 +1,7 @@
 [
    {
     "id": "Deinosuchus",
+        "fadeAmount": "fade-right",
         "album": "Late Cretaceous",
     "urls": {
       "raw": "photos/Deinosuchus-A.jpg",
@@ -21,12 +22,14 @@
         "habitatSvg": "photos/claudita-home-icon.svg",
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
           "dietSvg": "photos/fishIcon.webp",
-"isThisADinoPic": "photos/isThisADino.svg"
+"isThisADinoPic": "photos/isThisADino.svg",
+"photoAlive": "photos/DeinosuchusLoc.jpg"
 },
 
 
    {
     "id": "Giant Ground Sloth",
+        "fadeAmount": "fade-right",
         "album": "Pleistocene",
     "urls": {
       "raw": "photos/groundslothPlaceHolder.webp",
@@ -42,7 +45,7 @@
     "height": 100,
     "specimenName": "Giant Ground Sloth",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/GiantGroundSlothLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -56,6 +59,7 @@
 
 {
     "id": "Hadrosaur Jaw",
+        "fadeAmount": "fade-right",
         "album": "Late Cretaceous",
     "urls": {
       "raw": "photos/hadrosaurJaw.png",
@@ -72,7 +76,7 @@
     "height": 100,
     "specimenName": "Hadrosaur Jaw",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/HighCrestedDuckbillLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -86,6 +90,7 @@
 
   {
     "id": "Helicoprion",
+        "fadeAmount": "fade-right",
         "album": ["Permian"],
     "urls": {
       "raw": "photos/Helicoprion.jpg",
@@ -102,7 +107,7 @@
     "height": 100,
     "specimenName": "Helicoprion",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/WorlToothSharkLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -116,6 +121,7 @@
 
   {
     "id": "Tiktaalik",
+        "fadeAmount": "fade-right",
         "album": "Devonian",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -132,7 +138,7 @@
     "height": 75,
     "specimenName": "Tiktaalik",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/TiktaalikLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -146,6 +152,7 @@
 
 {
     "id": "Hallucigenia",
+        "fadeAmount": "fade-right",
         "album": "Cambrian",
     "urls": {
       "raw": "photos/hallucigenia.jpg",
@@ -162,7 +169,7 @@
     "height": 100,
     "specimenName": "Hallucigenia",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/HallucigeniaLocationLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -176,6 +183,7 @@
 
  {
     "id": "Bootherium Bombifrons",
+        "fadeAmount": "fade-right",
         "album": "Pleistocene",
     "urls": {
       "raw": "photos/Bootherium.jpg",
@@ -192,7 +200,7 @@
     "height": 100,
     "specimenName": "Bootherium Bombifrons",
               "Att":"",
-      "photoAlive": "photos/Bootherium-A.jpg",
+      "photoAlive": "photos/WoodlandMuskOxLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -205,6 +213,7 @@
 },
 {
     "id": "Casteroides ",
+        "fadeAmount": "fade-right",
         "album": "Pleistocene",
     "urls": {
       "raw": "photos/groundslothPlaceHolder.webp",
@@ -220,7 +229,7 @@
     "height": 100,
     "specimenName": "Casteroides",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/CastoroidesLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -238,6 +247,7 @@
 
   {
     "id": "Mammoth Tusk",
+        "fadeAmount": "fade-right",
         "album": ["Miocene", "Pleistocene"],
     "urls": {
       "raw": "photos/mammoth.jpg",
@@ -254,7 +264,7 @@
     "height": 100,
     "specimenName": "Mammoth Tusk",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/MammothLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -269,6 +279,7 @@
 
 {
     "id": "Horse Teeth",
+        "fadeAmount": "fade-right",
         "album": ["Pleistocene", "Miocene"],
     "urls": {
       "raw": "photos/horseSkull.jpg",
@@ -285,7 +296,7 @@
     "height": 100,
     "specimenName": "Horse Teeth",
               "Att":"",
-      "photoAlive": "photos/Equus-A.jpg",
+      "photoAlive": "photos/EquusLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -314,7 +325,7 @@
     "height": 3936,
         "specimenName": "Otodus Megalodon",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/MegalodonLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -326,6 +337,7 @@
 },
    {
     "id": "Xiphiacetus",
+        "fadeAmount": "fade-right",
         "album": "Miocene",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -342,7 +354,7 @@
     "height": 150,
     "specimenName": "Xiphiacetus",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/LongNosedDolphinLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -356,6 +368,7 @@
 
      {
     "id": "Prinonchelys",
+        "fadeAmount": "fade-right",
         "album": "Late Cretaceous",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -372,7 +385,7 @@
     "height": 150,
     "specimenName": "Prinonchelys",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/PrionochelysLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -386,6 +399,7 @@
 
        {
     "id": "Mosasaur",
+        "fadeAmount": "fade-right",
         "album": "Late Cretaceous",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -402,7 +416,7 @@
     "height": 150,
     "specimenName": "Mosasaur",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/MosasaurLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -415,6 +429,7 @@
 },
          {
     "id": "Plesiosaur",
+        "fadeAmount": "fade-right",
         "album": "Late Cretaceous",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -431,7 +446,7 @@
     "height": 100,
     "specimenName": "Plesiosaur",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/PlesiosaurLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -449,6 +464,7 @@
 
            {
     "id": "Grallator dinosaur track",
+        "fadeAmount": "fade-right",
         "album": ["Triassic", "Jurassic", "Late Cretaceous"],
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -465,7 +481,7 @@
     "height": 100,
     "specimenName": "Grallator Tracks",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/GrallatorDinosaurTrackLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -479,6 +495,7 @@
 
    {
     "id": "Gorgetosuchus",
+        "fadeAmount": "fade-right",
         "album": ["Triassic"],
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -496,7 +513,7 @@
     "specimenName": "Gorgetosuchus",
               "Att":"",
       "photoAlive": "Gorgetosuchus-a.png",
-         "locationSvg": "photos/clockLocation.svg",
+         "locationSvg": "photos/GorgetosuchusLoc.jpg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
       "sizeSvg":  "photos/ruler-svgrepo-com.svg",
@@ -508,6 +525,7 @@
 },
  {
     "id": "Postosuchus",
+        "fadeAmount": "fade-rightNewLower",
         "album": ["Triassic"],
     "urls": {
       "raw": "photos/Postosuchus-a.png",
@@ -524,7 +542,7 @@
     "height": 100,
     "specimenName": "Postosuchus",
               "Att":"",
-      "photoAlive": "Gorgetosuchus-a.jpg",
+      "photoAlive": "photos/PostosuchusLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -538,6 +556,7 @@
 
    {
     "id": "Dromicosuchus",
+        "fadeAmount": "fade-right",
         "album": ["Triassic"],
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -554,7 +573,7 @@
     "height": 100,
     "specimenName": "Dromicosuchus",
               "Att":"",
-      "photoAlive": "Gorgetosuchus-a.jpg",
+      "photoAlive": "photos/DromicosuchusLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -571,6 +590,7 @@
 
 {
     "id": "Exogyra",
+        "fadeAmount": "fade-right",
         "album": ["Jurassic","Late Cretaceous"],
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -587,7 +607,7 @@
     "height": 100,
     "specimenName": "Exogyra",
               "Att":"",
-      "photoAlive": "photos/Exogyra.JPG",
+      "photoAlive": "photos/ExogyraLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -602,6 +622,7 @@
 
   {
     "id": "Diplocaulus",
+        "fadeAmount": "fade-right",
         "album": ["Pennsylvanian","Permian"],
     "urls": {
       "raw": "photos/Diplocaulus.jpg",
@@ -618,7 +639,7 @@
     "height": 100,
     "specimenName": "Diplocaulus",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/DiplocaulusLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -631,6 +652,7 @@
 },
   {
     "id": "Boreogomphodon",
+        "fadeAmount": "fade-right",
         "album": "Triassic",
     "urls": {
       "raw": "photos/Boreogomphodon-a.png",
@@ -647,7 +669,7 @@
     "height": 100,
     "specimenName": "Boreogomphodon",
               "Att":"",
-      "photoAlive": "photos/Swartpuntia-a.png",
+      "photoAlive": "photos/BoreogomphodonLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -659,6 +681,7 @@
 },
   {
     "id": "Coahomasuchus",
+        "fadeAmount": "fade-right",
         "album": "Triassic",
     "urls": {
       "raw": "photos/Coahomasuchus-a.png",
@@ -675,7 +698,7 @@
     "height": 100,
     "specimenName": "Coahomasuchus",
               "Att":"",
-      "photoAlive": "photos/Swartpuntia-a.png",
+      "photoAlive": "photos/CoahomasuchusLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -688,6 +711,7 @@
 
                {
     "id": "Crinoids",
+        "fadeAmount": "fade-right",
         "album": "Jurassic",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -704,7 +728,7 @@
     "height": 100,
     "specimenName": "Crinoids",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/CrinoidsLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -718,7 +742,8 @@
   
                {
     "id": "Giant Sea Scorpion",
-        "album": "Devonian",
+        "fadeAmount": "fade-right",
+        "album": ["Silurian", "Devonian"],
     "urls": {
       "raw": "photos/Mixopterus-a.jpg",
       "full": "photos/Mixopterus-a.jpg",
@@ -734,7 +759,7 @@
     "height": 150,
     "specimenName": "Giant Sea Scorpion",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/MixopterusLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -748,6 +773,7 @@
 
 {
     "id": "Xenacanthus",
+        "fadeAmount": "fade-right",
         "album": "Devonian",
     "urls": {
       "raw": "photos/Xenacanthus-a.png",
@@ -764,7 +790,7 @@
     "height": 100,
     "specimenName": "Xenacanthus",
               "Att":"",
-      "photoAlive": "photos/Xenacanthus-a.png",
+      "photoAlive": "photos/XenacanthusLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -779,6 +805,7 @@
 
                    {
     "id": "Bothriolepis",
+        "fadeAmount": "fade-right",
         "album": "Devonian",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -795,7 +822,7 @@
     "height": 100,
     "specimenName": "Bothriolepis",
               "Att":"",
-      "photoAlive": "photos/bothriolepis-A.jpg",
+      "photoAlive": "photos/BothreolepisLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -809,6 +836,7 @@
 
                       {
     "id": "Terataspis",
+        "fadeAmount": "fade-right",
         "album": "Devonian",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -825,7 +853,7 @@
     "height": 150,
     "specimenName": "Terataspis",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/TerataspisLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -839,6 +867,7 @@
 
  {
     "id": "Eldredgeops",
+        "fadeAmount": "fade-right",
         "album": "Devonian",
     "urls": {
       "raw": "photos/Eldgredgeops-a.jpg",
@@ -855,7 +884,7 @@
     "height": 100,
     "specimenName": "Eldredgeops",
               "Att":"",
-      "photoAlive": "photos/Eldredgeops.jpg",
+      "photoAlive": "photos/EldredgeopsLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -870,6 +899,7 @@
 
                         {
     "id": "Aspidella",
+        "fadeAmount": "fade-right",
         "album": "Ediacaran",
     "urls": {
       "raw": "photos/Deinosuchus.jpg",
@@ -886,7 +916,7 @@
     "height": 100,
     "specimenName": "Aspidella",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/AspidellaLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -900,6 +930,7 @@
 
    {
     "id": "Wiwaxia",
+        "fadeAmount": "fade-right",
         "album": "Cambrian",
     "urls": {
       "raw": "photos/Wiwaxia-a.jpg",
@@ -916,7 +947,7 @@
     "height": 100,
     "specimenName": "Wiwaxia ",
               "Att":"",
-      "photoAlive": "photos/DeinosuchusLive.avif",
+      "photoAlive": "photos/WiwaxiaLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -932,6 +963,7 @@
 
   {
     "id": "Swartpuntia",
+        "fadeAmount": "fade-right",
         "album": "Precambrian",
     "urls": {
       "raw": "photos/hallucigenia.jpg",
@@ -948,7 +980,7 @@
     "height": 125,
     "specimenName": "Swartpuntia",
               "Att":"",
-      "photoAlive": "photos/Swartpuntia-a.png",
+      "photoAlive": "photos/SwartpuntiaLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
@@ -961,6 +993,7 @@
 
   {
     "id": "Pteridinium",
+        "fadeAmount": "fade-right",
         "album": "Precambrian",
     "urls": {
       "raw": "photos/Pteridinium-a.png",
@@ -977,7 +1010,7 @@
     "height": 100,
     "specimenName": "Pteridinium",
               "Att":"",
-      "photoAlive": "photos/Swartpuntia-a.png",
+      "photoAlive": "photos/PteridiniumLoc.jpg",
          "locationSvg": "photos/clockLocation.svg",
      "eraSvg": "photos/Anonymous-Time-icon.svg",
         "habitatSvg": "photos/claudita-home-icon.svg",
